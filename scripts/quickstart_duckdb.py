@@ -15,7 +15,7 @@ df_summary = duckdb.sql("""
         container_name,
         COUNT(*) AS sample_sections,
         SUM(paragraph_count) AS total_paragraphs
-    FROM 'data/sections/train-00000-of-00001.parquet'
+    FROM 'hf://datasets/keystone-legal-data/us-statutes-medallion-samples/data/sections/train-00000-of-00001.parquet'
     GROUP BY jurisdiction, container_type, container_id, container_name
     ORDER BY sample_sections DESC
     LIMIT 10
@@ -32,7 +32,7 @@ df_subs = duckdb.sql("""
         enum_label,
         indent_level,
         LEFT(text, 100) AS text_preview
-    FROM 'data/subsections/train-00000-of-00001.parquet'
+    FROM 'hf://datasets/keystone-legal-data/us-statutes-medallion-samples/data/subsections/train-00000-of-00001.parquet'
     WHERE enum_label != ''
     LIMIT 8
 """).df()
@@ -48,7 +48,7 @@ df_edges = duckdb.sql("""
         target_doc_id,
         target_section,
         citation_count
-    FROM 'data/edges/train-00000-of-00001.parquet'
+    FROM 'hf://datasets/keystone-legal-data/us-statutes-medallion-samples/data/edges/train-00000-of-00001.parquet'
     ORDER BY citation_count DESC
     LIMIT 10
 """).df()
