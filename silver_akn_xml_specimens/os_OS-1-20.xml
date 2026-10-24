@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ok/act/os/title-1/section-1-20"/>
+          <FRBRuri value="/us-ok/act/os/title-1/section-1-20"/>
+          <FRBRdate date="2026-10-19" name="snapshot"/>
+          <FRBRauthor href="#oklegislature"/>
+          <FRBRcountry value="US-OK"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ok/act/os/title-1/section-1-20/eng@2026-10-19"/>
+          <FRBRuri value="/us-ok/act/os/title-1/section-1-20/eng@2026-10-19"/>
+          <FRBRdate date="2026-10-19" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ok/act/os/title-1/section-1-20/eng@2026-10-19/akn.xml"/>
+          <FRBRuri value="/us-ok/act/os/title-1/section-1-20/eng@2026-10-19/akn.xml"/>
+          <FRBRdate date="2026-10-19" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>d1ba5808fcecef1f523526ce5b3fd1d96b67dc6ec96ec7297d3d8208b179decf</meta:source_html_sha256>
+        <meta:doc_id>OS-1-20</meta:doc_id>
+        <meta:jurisdiction>US-OK</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>Oklahoma Abstractors Act</meta:chapter_id>
+        <meta:chapter_name>Oklahoma Abstractors Act</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Added by Laws 1984, c. 163, § 1, eff. Nov. 1, 1984. Amended by Laws 2006, c. 269, § 2, eff. July 1, 2007; Laws 2007, c. 359, § 1, eff. Jan. 1, 2008. Renumbered from Title 74, § 227.10 by Laws 2007, c. 359, § 22, eff. Jan. 1, 2008.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-20">
+        <num>1-20</num>
+        <heading>Short title</heading>
+        <paragraph eId="sec_1-20__para_1" class="indent-1">
+          <content>
+            <p>Sections 227.10 through 227.30 of this title shall be known and may be cited as the “Oklahoma Abstractors Act”.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

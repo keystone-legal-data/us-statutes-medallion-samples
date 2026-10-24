@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/title-01/section-1-1"/>
+          <FRBRuri value="/us-hi/act/hrs/title-01/section-1-1"/>
+          <FRBRdate date="2026-10-17" name="snapshot"/>
+          <FRBRauthor href="#hawaiilegislature"/>
+          <FRBRcountry value="US-HI"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/title-01/section-1-1/eng@2026-10-17"/>
+          <FRBRuri value="/us-hi/act/hrs/title-01/section-1-1/eng@2026-10-17"/>
+          <FRBRdate date="2026-10-17" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/title-01/section-1-1/eng@2026-10-17/akn.xml"/>
+          <FRBRuri value="/us-hi/act/hrs/title-01/section-1-1/eng@2026-10-17/akn.xml"/>
+          <FRBRdate date="2026-10-17" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>cb23d6e271d9319e6d04f38c9fb112a771a618ec6e51517f1e4ee162a13a22a1</meta:source_html_sha256>
+        <meta:doc_id>HRS-1-1</meta:doc_id>
+        <meta:jurisdiction>US-HI</meta:jurisdiction>
+        <meta:container_id>01</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Chapter 1 — COMMON LAW; CONSTRUCTION OF LAWS</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>L 1892, c 57, §5; am L 1903, c 32, §2; RL 1925, §1; RL 1935, §1; RL 1945, §1; RL 1955, §1-1; HRS §1-1</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1">
+        <num>1-1</num>
+        <heading>Common law of the State; exceptions</heading>
+        <paragraph eId="sec_1_1__para_1" class="indent-1">
+          <content>
+            <p>The common law of England, as ascertained by English and American decisions, is declared to be the common law of the State of Hawaii in all cases, except as otherwise expressly provided by the Constitution or laws of the United States, or by the laws of the State, or fixed by Hawaiian judicial precedent, or established by Hawaiian usage; provided that no person shall be subject to criminal proceedings except as provided by the written laws of the United States or of the State.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

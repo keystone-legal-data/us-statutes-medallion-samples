@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ca/act/cacode/code-bpc/section-BPC-1"/>
+          <FRBRuri value="/us-ca/act/cacode/code-bpc/section-BPC-1"/>
+          <FRBRdate date="2026-10-22" name="snapshot"/>
+          <FRBRauthor href="#caleg"/>
+          <FRBRcountry value="US-CA"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ca/act/cacode/code-bpc/section-BPC-1/eng@2026-10-22"/>
+          <FRBRuri value="/us-ca/act/cacode/code-bpc/section-BPC-1/eng@2026-10-22"/>
+          <FRBRdate date="2026-10-22" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ca/act/cacode/code-bpc/section-BPC-1/eng@2026-10-22/akn.xml"/>
+          <FRBRuri value="/us-ca/act/cacode/code-bpc/section-BPC-1/eng@2026-10-22/akn.xml"/>
+          <FRBRdate date="2026-10-22" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>1ef80a50d57991c8153f7955ee1ee72879c67d7c4720fd2b3acbed57a34dbbeb</meta:source_html_sha256>
+        <meta:doc_id>CACODE-BPC-1</meta:doc_id>
+        <meta:jurisdiction>US-CA</meta:jurisdiction>
+        <meta:container_id>BPC</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>GENERAL PROVISIONS</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Enacted by Stats. 1937, Ch. 399.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_BPC-1">
+        <num>BPC-1</num>
+        <heading>GENERAL PROVISIONS</heading>
+        <paragraph eId="sec_BPC-1__para_1" class="indent-1">
+          <content>
+            <p>This act shall be known as the Business and Professions Code.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

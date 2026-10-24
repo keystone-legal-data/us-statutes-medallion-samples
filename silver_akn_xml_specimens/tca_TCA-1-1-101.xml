@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-tn/act/code/tca/1-1-101"/>
+          <FRBRuri value="/akn/us-tn/act/code/tca/1-1-101"/>
+          <FRBRdate date="2026-10-20" name="snapshot"/>
+          <FRBRauthor href="~us-tn/general-assembly"/>
+          <FRBRcountry value="US-TN"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-tn/act/code/tca/1-1-101/eng@2026-10-20"/>
+          <FRBRuri value="/akn/us-tn/act/code/tca/1-1-101/eng@2026-10-20"/>
+          <FRBRdate date="2026-10-20" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-tn/act/code/tca/1-1-101/eng@2026-10-20/akn.xml"/>
+          <FRBRuri value="/akn/us-tn/act/code/tca/1-1-101/eng@2026-10-20/akn.xml"/>
+          <FRBRdate date="2026-10-20" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>7663380682bd66b3e607c67ce5e3647eeeb3aa78345b7650f57e45384f5efb61</meta:source_html_sha256>
+        <meta:doc_id>TCA-1-1-101</meta:doc_id>
+        <meta:jurisdiction>US-TN</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Code Commission</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Acts 1953, ch. 80, § 1; 1977, ch. 89, § 16; T.C.A. (orig. ed.), § 1-101; Acts 2016, ch. 603, § 1.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1-101">
+        <num>1-1-101</num>
+        <heading>Composition of commission — Vacancies.</heading>
+        <paragraph eId="sec_1-1-101__p_1" class="indent-1">
+          <num>(a)</num>
+          <content>
+            <p>There is created a Tennessee code commission of five (5) members composed of the chief justice of the supreme court, the attorney general and reporter, a director of the office of legal services for the general assembly, and two (2) other members appointed by the chief justice.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-101__p_2" class="indent-1">
+          <num>(b)</num>
+          <content>
+            <p>In the event of a vacancy for any cause in the appointed membership, the vacancy shall be filled by appointment by the chief justice.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

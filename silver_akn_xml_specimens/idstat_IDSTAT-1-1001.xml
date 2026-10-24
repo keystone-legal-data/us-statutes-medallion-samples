@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-id/act/idstat/title-01/section-1-1001"/>
+          <FRBRuri value="/us-id/act/idstat/title-01/section-1-1001"/>
+          <FRBRdate date="2026-10-17" name="snapshot"/>
+          <FRBRauthor href="#idaholegislature"/>
+          <FRBRcountry value="US-ID"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-id/act/idstat/title-01/section-1-1001/eng@2026-10-17"/>
+          <FRBRuri value="/us-id/act/idstat/title-01/section-1-1001/eng@2026-10-17"/>
+          <FRBRdate date="2026-10-17" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-id/act/idstat/title-01/section-1-1001/eng@2026-10-17/akn.xml"/>
+          <FRBRuri value="/us-id/act/idstat/title-01/section-1-1001/eng@2026-10-17/akn.xml"/>
+          <FRBRdate date="2026-10-17" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>7acb270369749625c678f7083d41cd97faeee416bf719dc42d976dfba5c29984</meta:source_html_sha256>
+        <meta:doc_id>IDSTAT-1-1001</meta:doc_id>
+        <meta:jurisdiction>US-ID</meta:jurisdiction>
+        <meta:container_id>01</meta:container_id>
+        <meta:chapter_id>10</meta:chapter_id>
+        <meta:chapter_name>Chapter 10 — CLERK OF THE DISTRICT COURT</meta:chapter_name>
+        <meta:subchapter_id>T1CH10</meta:subchapter_id>
+        <meta:subchapter_name>T1CH10</meta:subchapter_name>
+        <meta:history_note>[(1-1001) R.S., sec. 270; compiled and reen. R.C., sec. 2049; reen. C.L., sec. 2049; C.S., sec. 3621; I.C.A., sec. 1-1001.]</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1001">
+        <num>1-1001</num>
+        <heading>DUTIES OF CLERK</heading>
+        <paragraph eId="sec_1_1001__para_1" class="indent-1">
+          <content>
+            <p>The clerk of the district court must perform such duties as are prescribed in the Code of Civil Procedure and in the Penal Code, and such duties as may be required of him by the rules and practice of the court.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

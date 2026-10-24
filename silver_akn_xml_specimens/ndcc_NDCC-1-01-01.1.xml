@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-nd/act/ndcc/title-1/section-1-01-01.1"/>
+          <FRBRuri value="/us-nd/act/ndcc/title-1/section-1-01-01.1"/>
+          <FRBRdate date="2026-10-19" name="snapshot"/>
+          <FRBRauthor href="#ndlegis"/>
+          <FRBRcountry value="US-ND"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-nd/act/ndcc/title-1/section-1-01-01.1/eng@2026-10-19"/>
+          <FRBRuri value="/us-nd/act/ndcc/title-1/section-1-01-01.1/eng@2026-10-19"/>
+          <FRBRdate date="2026-10-19" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-nd/act/ndcc/title-1/section-1-01-01.1/eng@2026-10-19/akn.xml"/>
+          <FRBRuri value="/us-nd/act/ndcc/title-1/section-1-01-01.1/eng@2026-10-19/akn.xml"/>
+          <FRBRdate date="2026-10-19" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>15638b898e42bb5bb7a07907af58715d8cd7393ff232ef2673ad9294e52c148e</meta:source_html_sha256>
+        <meta:doc_id>NDCC-1-01-01.1</meta:doc_id>
+        <meta:jurisdiction>US-ND</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1-01</meta:chapter_id>
+        <meta:chapter_name>Chapter 1-01 - General Principles And Definitions</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Repealed by omission from this code.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-01-01.1">
+        <num>1-01-01.1</num>
+        <heading>Adoption of North Dakota Revised Code of 1943</heading>
+        <paragraph eId="sec_1-01-01.1__para_1" class="indent-1">
+          <content>
+            <p>Repealed by omission from this code.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

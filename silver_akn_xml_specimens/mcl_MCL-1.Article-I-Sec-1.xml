@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-mi/act/mcl/chapter-1/section-1.Article-I-Sec-1"/>
+          <FRBRuri value="/us-mi/act/mcl/chapter-1/section-1.Article-I-Sec-1"/>
+          <FRBRdate date="2026-10-18" name="snapshot"/>
+          <FRBRauthor href="#milegislature"/>
+          <FRBRcountry value="US-MI"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-mi/act/mcl/chapter-1/section-1.Article-I-Sec-1/eng@2026-10-18"/>
+          <FRBRuri value="/us-mi/act/mcl/chapter-1/section-1.Article-I-Sec-1/eng@2026-10-18"/>
+          <FRBRdate date="2026-10-18" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-mi/act/mcl/chapter-1/section-1.Article-I-Sec-1/eng@2026-10-18/akn.xml"/>
+          <FRBRuri value="/us-mi/act/mcl/chapter-1/section-1.Article-I-Sec-1/eng@2026-10-18/akn.xml"/>
+          <FRBRdate date="2026-10-18" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>3d3ad30b345f1c1a4fe0bc538b5f0d51f00d968d4a9c3ce2c4614e2f0beb80b0</meta:source_html_sha256>
+        <meta:doc_id>MCL-1.Article-I-Sec-1</meta:doc_id>
+        <meta:jurisdiction>US-MI</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>CONSTITUTION OF MICHIGAN OF 1963</meta:chapter_id>
+        <meta:chapter_name>CONSTITUTION OF MICHIGAN OF 1963 — STATE CONSTITUTION</meta:chapter_name>
+        <meta:subchapter_id>Article Article-I</meta:subchapter_id>
+        <meta:subchapter_name>Article Article-I</meta:subchapter_name>
+        <meta:history_note>History: Const. 1963, Art. I, § 1, Eff. Jan. 1, 1964.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1.Article-I-Sec-1">
+        <num>1.Article-I-Sec-1</num>
+        <heading>Political power.</heading>
+        <paragraph eId="sec_1.Article-I-Sec-1__para_1" class="indent-1">
+          <content>
+            <p>All political power is inherent in the people. Government is instituted for their equal benefit, security and protection.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

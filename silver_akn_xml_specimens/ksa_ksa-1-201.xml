@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/chapter-1/section-1-201"/>
+          <FRBRuri value="/us-ks/act/ksa/chapter-1/section-1-201"/>
+          <FRBRdate date="2026-10-17" name="snapshot"/>
+          <FRBRauthor href="#ksleg"/>
+          <FRBRcountry value="US-KS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/chapter-1/section-1-201/eng@2026-10-17"/>
+          <FRBRuri value="/us-ks/act/ksa/chapter-1/section-1-201/eng@2026-10-17"/>
+          <FRBRdate date="2026-10-17" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/chapter-1/section-1-201/eng@2026-10-17/akn.xml"/>
+          <FRBRuri value="/us-ks/act/ksa/chapter-1/section-1-201/eng@2026-10-17/akn.xml"/>
+          <FRBRdate date="2026-10-17" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>37647ecc58afb9706ec9aa3ebee436a2504d7613a31e684bbfda635239d95eda</meta:source_html_sha256>
+        <meta:doc_id>ksa-1-201</meta:doc_id>
+        <meta:jurisdiction>US-KS</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>2</meta:chapter_id>
+        <meta:chapter_name>Article 2 — STATE BOARD OF ACCOUNTANCY</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>L. 1951, ch. 1, § 1; L. 1978, ch. 308, § 41; L. 1981, ch. 2, § 1; L. 1982, ch. 347, § 2; L. 1982, ch. 1, § 1; L. 1982, ch. 312, § 1; L. 1988, ch. 356, § 27; L. 2000, ch. 81, § 3; July 1.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-201">
+        <num>1-201</num>
+        <heading>Membership; appointment; qualifications; term; vacancies; removal</heading>
+        <paragraph eId="sec_1_201__p_1" class="indent-1">
+          <num>(a)</num>
+          <content>
+            <p>(a) There is hereby created a board of accountancy, hereinafter referred to as the board. The board shall be composed of seven members who shall be appointed by the governor and shall be citizens of the United States and residents of the state of Kansas. Five members of the board shall be certified public accountants who hold permits to practice as certified public accountants in this state and who are in active practice as such and two members shall represent the general public. Any member of the board who is appointed to represent the general public shall be a person whose business, occupation or profession requires a reliance on and understanding of financial statements and their use.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1_201__p_2" class="indent-1">
+          <num>(b)</num>
+          <content>
+            <p>(b) Each member of the board shall serve for a term of three years and until a successor is appointed and qualified. Vacancies in the board shall be filled by appointment of the governor for the unexpired term.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1_201__p_3" class="indent-1">
+          <num>(c)</num>
+          <content>
+            <p>(c) The governor shall remove from the board any certified public accountant member who does not hold a permit to practice as a certified public accountant in this state. After a hearing conducted in accordance with the provisions of the Kansas administrative procedure act, the governor may remove any member of the board for neglect of duty or other just cause.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

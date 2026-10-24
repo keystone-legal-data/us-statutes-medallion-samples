@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ri/act/rigl/1/1-1-1"/>
+          <FRBRuri value="/us-ri/act/rigl/1/1-1-1"/>
+          <FRBRdate date="2026-10-20" name="snapshot"/>
+          <FRBRauthor href="~us-ri/general-assembly"/>
+          <FRBRcountry value="US-RI"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ri/act/rigl/1/1-1-1/eng@2026-10-20"/>
+          <FRBRuri value="/us-ri/act/rigl/1/1-1-1/eng@2026-10-20"/>
+          <FRBRdate date="2026-10-20" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ri/act/rigl/1/1-1-1/eng@2026-10-20/akn.xml"/>
+          <FRBRuri value="/us-ri/act/rigl/1/1-1-1/eng@2026-10-20/akn.xml"/>
+          <FRBRdate date="2026-10-20" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>c4b2d5ebc0a5703e77f4f202da7620ea044f0578179970a752c2a1ef50e7653f</meta:source_html_sha256>
+        <meta:doc_id>RIGL-1-1-1</meta:doc_id>
+        <meta:jurisdiction>US-RI</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Airports Division — Aeronautics Advisory Board [Repealed.]</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>P.L. 1939, ch. 660, § 106, P.L. 1940, ch. 851, § 10, impl. am. P.L. 1952, ch. 2975, § 2, G.L. 1956 § 1-1-1; Repealed by P.L. 2000, ch. 371, § 1, effective July 19, 2000. For present comparable provisions, see § 1-2-1.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1-1">
+        <num>1-1-1</num>
+        <heading>Repealed.</heading>
+        <paragraph eId="sec_1-1-1__para_1" class="indent-1">
+          <content>
+            <p>[Repealed.]</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

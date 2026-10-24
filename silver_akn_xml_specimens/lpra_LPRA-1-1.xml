@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-pr/act/lpra/title-1/section-1-1"/>
+          <FRBRuri value="/us-pr/act/lpra/title-1/section-1-1"/>
+          <FRBRdate date="2026-10-20" name="snapshot"/>
+          <FRBRauthor href="#oslpr"/>
+          <FRBRcountry value="US-PR"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-pr/act/lpra/title-1/section-1-1/eng@2026-10-20"/>
+          <FRBRuri value="/us-pr/act/lpra/title-1/section-1-1/eng@2026-10-20"/>
+          <FRBRdate date="2026-10-20" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-pr/act/lpra/title-1/section-1-1/eng@2026-10-20/akn.xml"/>
+          <FRBRuri value="/us-pr/act/lpra/title-1/section-1-1/eng@2026-10-20/akn.xml"/>
+          <FRBRdate date="2026-10-20" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>f3a9e5ab7863332fa9e70e661bbcd9457cd38015493f796bc564dba55247554e</meta:source_html_sha256>
+        <meta:doc_id>LPRA-1-1</meta:doc_id>
+        <meta:jurisdiction>US-PR</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1.</meta:chapter_id>
+        <meta:chapter_name>Chapter 1. - Governmental Powers Generally; Citizenship; Domicile; Rights of People</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Political Code, 1902, § 4.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1">
+        <num>1-1</num>
+        <heading>Governmental powers generally</heading>
+        <paragraph eId="sec_1-1__para_1" class="indent-1">
+          <content>
+            <p>The Government of Puerto Rico has the following rights over persons within its limits, to be exercised in the cases and in the manner provided by law:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1__para_2" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>(1) To punish for crime.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1__para_3" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) To imprison or confine for the protection of the public peace or health, or of individual life or safety.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1__para_4" class="indent-2">
+          <num>(3)</num>
+          <content>
+            <p>(3) To establish custody and restraint of persons suffering from mental alienation, of drunkards, and other persons of unsound mind.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1__para_5" class="indent-2">
+          <num>(4)</num>
+          <content>
+            <p>(4) To establish custody and restraint of paupers for the purpose of their maintenance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1__para_6" class="indent-2">
+          <num>(5)</num>
+          <content>
+            <p>(5) To establish custody and restraint of minors unprovided for by parents or natural guardians, for the purposes of their education, reformation and maintenance.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1__para_7" class="indent-2">
+          <num>(6)</num>
+          <content>
+            <p>(6) To require services of persons, with or without compensation, in militia duty; in jury duty; as witnesses; as city, town or village officers; in maintaining the public peace; in enforcing the service of process; in protecting life and property from fire, pestilence, wreck and flood; and in such other cases as are provided by law.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

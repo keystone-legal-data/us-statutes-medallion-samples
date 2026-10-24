@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ny/act/nycode/law-abp/section-ABP-1000"/>
+          <FRBRuri value="/us-ny/act/nycode/law-abp/section-ABP-1000"/>
+          <FRBRdate date="2026-10-18" name="snapshot"/>
+          <FRBRauthor href="#nyleg"/>
+          <FRBRcountry value="US-NY"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ny/act/nycode/law-abp/section-ABP-1000/eng@2026-10-18"/>
+          <FRBRuri value="/us-ny/act/nycode/law-abp/section-ABP-1000/eng@2026-10-18"/>
+          <FRBRdate date="2026-10-18" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ny/act/nycode/law-abp/section-ABP-1000/eng@2026-10-18/akn.xml"/>
+          <FRBRuri value="/us-ny/act/nycode/law-abp/section-ABP-1000/eng@2026-10-18/akn.xml"/>
+          <FRBRdate date="2026-10-18" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>fe9eac1b885ac0046ba27b73895f9b20076c9a40215eb85ca605efa8565b584d</meta:source_html_sha256>
+        <meta:doc_id>NYCODE-ABP-1000</meta:doc_id>
+        <meta:jurisdiction>US-NY</meta:jurisdiction>
+        <meta:container_id>ABP</meta:container_id>
+        <meta:chapter_id>ABP-X</meta:chapter_id>
+        <meta:chapter_name>Article X - UNCLAIMED CONDEMNATION AWARDS</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>N.Y. Abandoned Property § 1000.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_ABP-1000">
+        <num>ABP-1000</num>
+        <heading>Unclaimed condemnation awards</heading>
+        <paragraph eId="sec_ABP-1000__para_1" class="indent-1">
+          <num>1.</num>
+          <content>
+            <p>1. (a) Any moneys held or owing for the payment of an award made by a court in any condemnation proceeding and payable by a public corporation or other corporation possessing powers of condemnation, which shall have remained unclaimed by the person or persons appearing to be entitled thereto for three years after confirmation by the court, together with any interest due thereon, less, when an award is payable by a public corporation, any amount due such public corporation at the time of title vesting for tax, water or any other liens on the same parcel the award was for, with any interest due thereon, and any amount due such public corporation at the time of title vesting or at the time of confirmation, whichever is later, for an assessment on the same parcel the award was for, with any interest due thereon, shall be deemed abandoned property. In any condemnation proceedings in which the court shall have not made an award, any moneys paid into court, including interest thereon, shall be subject to the provisions of article six of this chapter and this section shall have no application thereto.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_ABP-1000__para_2" class="indent-2">
+          <num>(b)</num>
+          <content>
+            <p>(b) The issuance of a warrant for such an award shall not prevent an award from being deemed abandoned property if such warrant is unclaimed three years after confirmation of such award by the court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_ABP-1000__para_3" class="indent-1">
+          <num>2.</num>
+          <content>
+            <p>2. Any such abandoned property held or owing by such a corporation to which the right to receive the same is established to the satisfaction of such corporation shall cease to be deemed abandoned.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

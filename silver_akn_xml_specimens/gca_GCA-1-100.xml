@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-gu/act/gca/title-1/section-1-100"/>
+          <FRBRuri value="/us-gu/act/gca/title-1/section-1-100"/>
+          <FRBRdate date="2026-10-17" name="snapshot"/>
+          <FRBRauthor href="#guamlegislature"/>
+          <FRBRcountry value="US-GU"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-gu/act/gca/title-1/section-1-100/eng@2026-10-17"/>
+          <FRBRuri value="/us-gu/act/gca/title-1/section-1-100/eng@2026-10-17"/>
+          <FRBRdate date="2026-10-17" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-gu/act/gca/title-1/section-1-100/eng@2026-10-17/akn.xml"/>
+          <FRBRuri value="/us-gu/act/gca/title-1/section-1-100/eng@2026-10-17/akn.xml"/>
+          <FRBRdate date="2026-10-17" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>c20bf59b69bef046cbe16248cf16f88c6d04569d2ce2b630d8ef59d4c972b919</meta:source_html_sha256>
+        <meta:doc_id>GCA-1-100</meta:doc_id>
+        <meta:jurisdiction>US-GU</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>The Laws of Guam</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Added by P.L. 15-104:1 (Mar. 5, 1980). Compare § 1-1, Hawaii Revised Statutes (HRS) and § 22, Trust Territory Code (1959). Amended by P.L. 27-077:2 (Apr. 26, 2004).</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-100">
+        <num>1-100</num>
+        <heading>Laws Applicable to Guam</heading>
+        <paragraph eId="sec_1_100__para_1" class="indent-1">
+          <content>
+            <p>The Laws in force in Guam constitute those portions of the Constitution, treaties and laws of the United States of America applicable to Guam; Acts of I Liheslaturan Guåhan; the Guam Code Annotated; Executive Orders of I Maga’lahen Guåhan promulgated pursuant to the Organic Act of Guam and pursuant to Acts of I Liheslatura; decisions of the Supreme Court of Guam; decisions of the Supreme Court of the United States ruling upon those portions of the Constitution, treaties and laws of the United States applicable to Guam and upon cases and controversies applicable to Guam; decisions of the appellate courts given jurisdiction to hear cases from Guam in those matters applicable to Guam; and, as to the individual case, decisions of the Superior Court of Guam.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

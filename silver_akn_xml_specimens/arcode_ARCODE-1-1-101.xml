@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ar/act/arcode/title-1/section-1-1-101"/>
+          <FRBRuri value="/us-ar/act/arcode/title-1/section-1-1-101"/>
+          <FRBRdate date="2026-10-16" name="snapshot"/>
+          <FRBRauthor href="#arleg"/>
+          <FRBRcountry value="US-AR"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ar/act/arcode/title-1/section-1-1-101/eng@2026-10-16"/>
+          <FRBRuri value="/us-ar/act/arcode/title-1/section-1-1-101/eng@2026-10-16"/>
+          <FRBRdate date="2026-10-16" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ar/act/arcode/title-1/section-1-1-101/eng@2026-10-16/akn.xml"/>
+          <FRBRuri value="/us-ar/act/arcode/title-1/section-1-1-101/eng@2026-10-16/akn.xml"/>
+          <FRBRdate date="2026-10-16" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>a831958a7078cdc240b12a640262490dd8377db05748fbe1272d953ab444ba55</meta:source_html_sha256>
+        <meta:doc_id>ARCODE-1-1-101</meta:doc_id>
+        <meta:jurisdiction>US-AR</meta:jurisdiction>
+        <meta:container_id>01</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>General Provisions</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Acts 1905, No. 41, § 1, p. 124; C. &amp; M. Dig., § 9180; Pope's Dig., § 11865; A.S.A. 1947, § 5-101.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1-101">
+        <num>1-1-101</num>
+        <heading>Extension of western boundary line</heading>
+        <paragraph eId="sec_1-1-101__para_1" class="indent-1">
+          <content>
+            <p>The western boundary line of the State of Arkansas is extended as follows, so as to include all that strip of land in the Indian Territory lying and being situated between the Arkansas state line adjacent to the city of Fort Smith, and the Arkansas River and Poteau River, described as follows, namely: Beginning at a point on the south bank of the Arkansas River one hundred (100) paces west of Old Fort Smith, where the western boundary line of the State of Arkansas crosses the Arkansas River, and running southwesterly along the south bank of the Arkansas River to the mouth of the Poteau; thence at right angles with the Poteau River to the center of the current of that river; thence southerly up the middle of the current of the Poteau River, except where the Arkansas state line intersects the Poteau River, to a point in the middle of the current of the Poteau River opposite the mouth of Mill Creek, and where it is intersected by the middle of the current of Mill Creek; thence up the middle of Mill Creek to the Arkansas state line; thence northerly along the Arkansas state line to the point of beginning.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

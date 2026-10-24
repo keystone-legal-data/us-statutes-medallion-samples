@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-as/act/asca/title-1/section-01.0101"/>
+          <FRBRuri value="/us-as/act/asca/title-1/section-01.0101"/>
+          <FRBRdate date="2026-10-16" name="snapshot"/>
+          <FRBRauthor href="#asfono"/>
+          <FRBRcountry value="US-AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-as/act/asca/title-1/section-01.0101/eng@2026-10-16"/>
+          <FRBRuri value="/us-as/act/asca/title-1/section-01.0101/eng@2026-10-16"/>
+          <FRBRdate date="2026-10-16" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-as/act/asca/title-1/section-01.0101/eng@2026-10-16/akn.xml"/>
+          <FRBRuri value="/us-as/act/asca/title-1/section-01.0101/eng@2026-10-16/akn.xml"/>
+          <FRBRdate date="2026-10-16" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>81fce9ba3ed2d752ce3b290fa1c51d7e0bdec4d4fceadf6947fd0550c253df9f</meta:source_html_sha256>
+        <meta:doc_id>ASCA-01.0101</meta:doc_id>
+        <meta:jurisdiction>US-AS</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>01</meta:chapter_id>
+        <meta:chapter_name>General Provisions</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>1961, PL 7-14, amd 1977, PL 15-2, amd 1980, PL 16-83 § 2. Amendments: 1977 Changed citation style 1980 Changed citation style</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_01.0101">
+        <num>01.0101</num>
+        <heading>Citation</heading>
+        <paragraph eId="sec_01.0101__para_1" class="indent-1">
+          <content>
+            <p>This code shall be known as the American Samoa Code Annotated. It may be cited by title and section as follows — A.S.C.A.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

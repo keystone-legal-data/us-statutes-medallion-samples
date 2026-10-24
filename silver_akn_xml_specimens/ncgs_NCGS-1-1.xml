@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-nc/act/ncgs/chapter-1/section-1-1"/>
+          <FRBRuri value="/us-nc/act/ncgs/chapter-1/section-1-1"/>
+          <FRBRdate date="2026-10-19" name="snapshot"/>
+          <FRBRauthor href="#ncleg"/>
+          <FRBRcountry value="US-NC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-nc/act/ncgs/chapter-1/section-1-1/eng@2026-10-19"/>
+          <FRBRuri value="/us-nc/act/ncgs/chapter-1/section-1-1/eng@2026-10-19"/>
+          <FRBRdate date="2026-10-19" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-nc/act/ncgs/chapter-1/section-1-1/eng@2026-10-19/akn.xml"/>
+          <FRBRuri value="/us-nc/act/ncgs/chapter-1/section-1-1/eng@2026-10-19/akn.xml"/>
+          <FRBRdate date="2026-10-19" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>6ed8896efe45ce07f7c565f6ca56c729f969b3f132216da7856b67961c9e03c7</meta:source_html_sha256>
+        <meta:doc_id>NCGS-1-1</meta:doc_id>
+        <meta:jurisdiction>US-NC</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1-1</meta:chapter_id>
+        <meta:chapter_name>Article 1 - Definitions</meta:chapter_name>
+        <meta:subchapter_id>SUB-I</meta:subchapter_id>
+        <meta:subchapter_name>Subchapter I - DEFINITIONS AND GENERAL PROVISIONS</meta:subchapter_name>
+        <meta:history_note>N.C.G.S. § 1-1.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1">
+        <num>1-1</num>
+        <heading>Remedies</heading>
+        <paragraph eId="sec_1-1__para_1" class="indent-1">
+          <content>
+            <p>Remedies in the courts of justice are divided into -</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1__para_2" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>(1) Actions.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1__para_3" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) Special proceedings. (C.C.P., s. 1; Code, s. 125; Rev., s. 346; C.S., s. 391.)</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

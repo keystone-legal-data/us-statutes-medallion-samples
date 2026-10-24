@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-sd/act/code/sdcl/1-1-1.1"/>
+          <FRBRuri value="/akn/us-sd/act/code/sdcl/1-1-1.1"/>
+          <FRBRdate date="2026-10-20" name="snapshot"/>
+          <FRBRauthor href="~us-sd/legislature"/>
+          <FRBRcountry value="US-SD"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-sd/act/code/sdcl/1-1-1.1/eng@2026-10-20"/>
+          <FRBRuri value="/akn/us-sd/act/code/sdcl/1-1-1.1/eng@2026-10-20"/>
+          <FRBRdate date="2026-10-20" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-sd/act/code/sdcl/1-1-1.1/eng@2026-10-20/akn.xml"/>
+          <FRBRuri value="/akn/us-sd/act/code/sdcl/1-1-1.1/eng@2026-10-20/akn.xml"/>
+          <FRBRdate date="2026-10-20" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>e47e20f38f95e7b92f9d1f876f0413c6e87c04435cb83eb6c3b6bb17e55aa453</meta:source_html_sha256>
+        <meta:doc_id>SDCL-1-1-1.1</meta:doc_id>
+        <meta:jurisdiction>US-SD</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>STATE SOVEREIGNTY AND JURISDICTION</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>SL 1975, ch 63 ; SL 2024, ch 3 , § 1.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1-1.1">
+        <num>1-1-1.1</num>
+        <heading>Retrocession of jurisdiction over federal enclaves--Indian lands excluded--Filing of documents--Document content--Agreement authorized.</heading>
+        <paragraph eId="sec_1-1-1.1__p_1" class="indent-1">
+          <content>
+            <p>By appropriate executive order, the Governor may accept on behalf of the state retrocession of full or partial jurisdiction, juvenile, criminal, or civil, over any roads, highways, or other lands in federal enclaves, excluding Indian reservations and federal enclaves outside the boundaries of an Indian reservation established for Indian use, within the state where retrocession is offered by appropriate federal authority. Documents concerning the retrocession must be filed in the Office of the Secretary of State and in the office of the register of deeds of the county wherein the lands are located. The documents must:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1.1__p_2" class="indent-1">
+          <num>(1)</num>
+          <content>
+            <p>State the subject matter for the jurisdiction offer;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1.1__p_3" class="indent-1">
+          <num>(2)</num>
+          <content>
+            <p>Provide a metes-and-bounds description of the boundary of the jurisdiction offer; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1.1__p_4" class="indent-1">
+          <num>(3)</num>
+          <content>
+            <p>Indicate whether the request includes future expansions of land acquired for military purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1.1__p_5" class="indent-1">
+          <content>
+            <p>Upon the establishment of concurrent jurisdiction, any state or local agency may enter into a reciprocal agreement or memorandum of understanding with any agency of the United States for coordination and designation of responsibilities related to the transfer of jurisdiction.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

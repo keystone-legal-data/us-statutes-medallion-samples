@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-wy/act/wystat/title-1/section-1-1-101"/>
+          <FRBRuri value="/akn/us-wy/act/wystat/title-1/section-1-1-101"/>
+          <FRBRdate date="2026-10-22" name="snapshot"/>
+          <FRBRauthor href="wy-legislature"/>
+          <FRBRcountry value="us_wy"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-wy/act/wystat/title-1/section-1-1-101/eng@2026-10-22"/>
+          <FRBRuri value="/akn/us-wy/act/wystat/title-1/section-1-1-101/eng@2026-10-22"/>
+          <FRBRdate date="2026-10-22" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-wy/act/wystat/title-1/section-1-1-101/eng@2026-10-22/akn.xml"/>
+          <FRBRuri value="/akn/us-wy/act/wystat/title-1/section-1-1-101/eng@2026-10-22/akn.xml"/>
+          <FRBRdate date="2026-10-22" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>a88800b141a837a3c8f730b6b849d8c553fd79cc30ed564601f4cdb5f2bff307</meta:source_html_sha256>
+        <meta:doc_id>wystat-1-1-101</meta:doc_id>
+        <meta:jurisdiction>us_wy</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1-1</meta:chapter_id>
+        <meta:chapter_name>Chapter 1: General Provisions As To Civil Actions</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Wyoming Statutes Annotated (2026), Title 1 (Civil Procedure), Chapter 1: General Provisions As To Civil Actions, § 1-1-101</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1-101">
+        <num>1-1-101</num>
+        <heading>Provisions to be liberally construed</heading>
+        <paragraph eId="sec_1_1_101__p_1" class="indent-1">
+          <num>p_1</num>
+          <content>
+            <p>The Code of Civil Procedure and all proceedings under it shall be liberally construed to promote its object and assist the parties in obtaining justice. The rule of common law that statutes in derogation thereof must be strictly construed has no application to the Code of Civil Procedure, but this shall not be so construed as to require a liberal construction of provisions affecting personal liberty, relating to amercement or of a penal nature.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

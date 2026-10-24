@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-pa/act/pacs/title-1/section-1-101"/>
+          <FRBRuri value="/us-pa/act/pacs/title-1/section-1-101"/>
+          <FRBRdate date="2026-10-19" name="snapshot"/>
+          <FRBRauthor href="#palegis"/>
+          <FRBRcountry value="US-PA"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-pa/act/pacs/title-1/section-1-101/eng@2026-10-19"/>
+          <FRBRuri value="/us-pa/act/pacs/title-1/section-1-101/eng@2026-10-19"/>
+          <FRBRdate date="2026-10-19" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-pa/act/pacs/title-1/section-1-101/eng@2026-10-19/akn.xml"/>
+          <FRBRuri value="/us-pa/act/pacs/title-1/section-1-101/eng@2026-10-19/akn.xml"/>
+          <FRBRdate date="2026-10-19" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>a9f318cdfb53e1b4371226980e7a52ee3f128740601a4367beed5380b71e4613</meta:source_html_sha256>
+        <meta:doc_id>PACS-1-101</meta:doc_id>
+        <meta:jurisdiction>US-PA</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Chapter 1 - Short Title, Form of Citation and Effective Date</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>(Dec. 10, 1974, P.L.816, No.271, eff. imd.) 1974 Amendment. Act 271 changed the short title from "Consolidated Pennsylvania Statutes." Conforming Editorial Changes in Citations. For authority of the Director of the Legislative Reference Bureau to editorially change the form of citations in statutes to conform to the 1974 amendment to section 101, see section 6 of act 271 of 1974 in the appendix to this title.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-101">
+        <num>1-101</num>
+        <heading>Short title</heading>
+        <paragraph eId="sec_1-101__para_1" class="indent-1">
+          <content>
+            <p>This act shall be known and may be cited as the "Pennsylvania Consolidated Statutes."</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

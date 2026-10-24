@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-oh/act/orc/title-gp/section-1.01"/>
+          <FRBRuri value="/us-oh/act/orc/title-gp/section-1.01"/>
+          <FRBRdate date="2026-10-19" name="snapshot"/>
+          <FRBRauthor href="#ohleg"/>
+          <FRBRcountry value="US-OH"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-oh/act/orc/title-gp/section-1.01/eng@2026-10-19"/>
+          <FRBRuri value="/us-oh/act/orc/title-gp/section-1.01/eng@2026-10-19"/>
+          <FRBRdate date="2026-10-19" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-oh/act/orc/title-gp/section-1.01/eng@2026-10-19/akn.xml"/>
+          <FRBRuri value="/us-oh/act/orc/title-gp/section-1.01/eng@2026-10-19/akn.xml"/>
+          <FRBRdate date="2026-10-19" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>f398aeb9b0012582f2a2948a41b095f5e788478250f0698600afb40fe8af2e01</meta:source_html_sha256>
+        <meta:doc_id>ORC-1.01</meta:doc_id>
+        <meta:jurisdiction>US-OH</meta:jurisdiction>
+        <meta:container_id>GP</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Chapter 1 - Definitions; Rules of Construction</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Effective: June 29, 2011 | Latest Legislation: House Bill 9 - 129th General Assembly</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1.01">
+        <num>1.01</num>
+        <heading>Revised Code - citation and designation - General Code</heading>
+        <paragraph eId="sec_1.01__para_1" class="indent-1">
+          <content>
+            <p>All statutes of a permanent and general nature of the state as revised and consolidated into general provisions, titles, chapters, and sections shall be known and designated as the "Revised Code", for which designation "R.C." may be substituted. Except as otherwise provided in section 1301.107 of the Revised Code, Title, Chapter, and section headings and marginal General Code section numbers do not constitute any part of the law as contained in the "Revised Code".</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1.01__para_2" class="indent-1">
+          <content>
+            <p>The enactment of the Revised Code shall not be construed to affect a right or liability accrued or incurred under any section of the General Code prior to the effective date of such enactment, or an action or proceeding for the enforcement of such right or liability. Such enactment shall not be construed to relieve any person from punishment for an act committed in violation of any section of the General Code, nor to affect an indictment or prosecution therefor. For such purposes, any such section of the General Code shall continue in full force notwithstanding its repeal for the purpose of revision.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

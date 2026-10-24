@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-de/act/delcode/title-1/section-1-101"/>
+          <FRBRuri value="/us-de/act/delcode/title-1/section-1-101"/>
+          <FRBRdate date="2026-10-15" name="snapshot"/>
+          <FRBRauthor href="#delleg"/>
+          <FRBRcountry value="US-DE"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-de/act/delcode/title-1/section-1-101/eng@2026-10-15"/>
+          <FRBRuri value="/us-de/act/delcode/title-1/section-1-101/eng@2026-10-15"/>
+          <FRBRdate date="2026-10-15" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-de/act/delcode/title-1/section-1-101/eng@2026-10-15/akn.xml"/>
+          <FRBRuri value="/us-de/act/delcode/title-1/section-1-101/eng@2026-10-15/akn.xml"/>
+          <FRBRdate date="2026-10-15" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>bc6433a7dbc0b2aa2040a01be61018524205ce137b4a3aaac2947c9168e6109e</meta:source_html_sha256>
+        <meta:doc_id>DELCODE-1-101</meta:doc_id>
+        <meta:jurisdiction>US-DE</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Delaware Code</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>1 Del. C. 1953, § 101; 49 Del. Laws, c. 220, § 1</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-101">
+        <num>1-101</num>
+        <heading>Designation and citation of Code.</heading>
+        <paragraph eId="sec_1-101__para_1" class="indent-1">
+          <num>(a)</num>
+          <content>
+            <p>(a) The laws embraced in this title and the following titles, parts, chapters, subchapters and sections, as amended from time to time, shall constitute and be known as the “Delaware Code,” hereinafter referred to as “the Code” or “this Code.”</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-101__para_2" class="indent-1">
+          <num>(b)</num>
+          <content>
+            <p>(b) The Code may be cited by the abbreviation “Del. C.” preceded by the number of the title and followed by the number of the section, chapter or part in the title. Examples: Section 101 of Title 1 may be cited as 1 Del. C. § 101; chapter 3 of Title 2 may be cited as 2 Del. C. c. 3; Part V of Title 3 may be cited as 3 Del. C. Part V. When citing a section of the Code, the subchapter, chapter or part in which the section is found need not be included in the citation.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

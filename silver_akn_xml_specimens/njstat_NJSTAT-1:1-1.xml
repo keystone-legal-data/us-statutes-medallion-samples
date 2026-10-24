@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-nj/act/njstat/title-1/section-1:1-1"/>
+          <FRBRuri value="/us-nj/act/njstat/title-1/section-1:1-1"/>
+          <FRBRdate date="2026-10-18" name="snapshot"/>
+          <FRBRauthor href="#njleg"/>
+          <FRBRcountry value="US-NJ"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-nj/act/njstat/title-1/section-1:1-1/eng@2026-10-18"/>
+          <FRBRuri value="/us-nj/act/njstat/title-1/section-1:1-1/eng@2026-10-18"/>
+          <FRBRdate date="2026-10-18" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-nj/act/njstat/title-1/section-1:1-1/eng@2026-10-18/akn.xml"/>
+          <FRBRuri value="/us-nj/act/njstat/title-1/section-1:1-1/eng@2026-10-18/akn.xml"/>
+          <FRBRdate date="2026-10-18" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>4d2b7ac2bffcd020e585bc7bb6dfdb2795ef8a881438298cd2f9654adcbfcdd3</meta:source_html_sha256>
+        <meta:doc_id>NJSTAT-1:1-1</meta:doc_id>
+        <meta:jurisdiction>US-NJ</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Chapter 1</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>N.J. Stat. Ann. § 1:1-1.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1:1-1">
+        <num>1:1-1</num>
+        <heading>General rules of construction</heading>
+        <paragraph eId="sec_1:1-1__para_1" class="indent-1">
+          <content>
+            <p>In the construction of the laws and statutes of this state, both civil and criminal, words and phrases shall be read and construed with their context, and shall, unless inconsistent with the manifest intent of the legislature or unless another or different meaning is expressly indicated, be given their generally accepted meaning, according to the approved usage of the language. Technical words and phrases, and words and phrases having a special or accepted meaning in the law, shall be construed in accordance with such technical or special and accepted meaning.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

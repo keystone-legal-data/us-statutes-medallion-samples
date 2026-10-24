@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ne/act/ners/chapter-01/section-1-105.01"/>
+          <FRBRuri value="/us-ne/act/ners/chapter-01/section-1-105.01"/>
+          <FRBRdate date="2026-10-18" name="snapshot"/>
+          <FRBRauthor href="#neleg"/>
+          <FRBRcountry value="US-NE"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ne/act/ners/chapter-01/section-1-105.01/eng@2026-10-18"/>
+          <FRBRuri value="/us-ne/act/ners/chapter-01/section-1-105.01/eng@2026-10-18"/>
+          <FRBRdate date="2026-10-18" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ne/act/ners/chapter-01/section-1-105.01/eng@2026-10-18/akn.xml"/>
+          <FRBRuri value="/us-ne/act/ners/chapter-01/section-1-105.01/eng@2026-10-18/akn.xml"/>
+          <FRBRdate date="2026-10-18" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>973df824061de7246c88a1090703fff8a27f7945a460bbe68368f7b75f83ff3d</meta:source_html_sha256>
+        <meta:doc_id>NERS-1-105.01</meta:doc_id>
+        <meta:jurisdiction>US-NE</meta:jurisdiction>
+        <meta:container_id>01</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>ACCOUNTANTS</meta:chapter_name>
+        <meta:subchapter_id>1</meta:subchapter_id>
+        <meta:subchapter_name>Article 1</meta:subchapter_name>
+        <meta:history_note>Laws 1984, LB 473, § 1; Laws 1997, LB 114, § 2.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-105.01">
+        <num>1-105.01</num>
+        <heading>Nebraska State Board of Public Accountancy; purpose</heading>
+        <paragraph eId="sec_1-105.01__para_1" class="indent-1">
+          <content>
+            <p>It is the purpose of the Nebraska State Board of Public Accountancy to protect the welfare of the citizens of the state by assuring the competency of persons regulated under the Public Accountancy Act through (1) administration of certified public accountant examinations, (2) issuance of certificates and permits to qualified persons and firms, (3) monitoring the requirements for continued issuance of certificates and permits, and (4) disciplining certificate and permit holders who fail to comply with the technical or ethical standards of the public accountancy profession.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-wi/act/wistat/chapter-1/section-1.01"/>
+          <FRBRuri value="/akn/us-wi/act/wistat/chapter-1/section-1.01"/>
+          <FRBRdate date="2026-10-22" name="snapshot"/>
+          <FRBRauthor href="wi-legislature"/>
+          <FRBRcountry value="us_wi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-wi/act/wistat/chapter-1/section-1.01/eng@2026-10-22"/>
+          <FRBRuri value="/akn/us-wi/act/wistat/chapter-1/section-1.01/eng@2026-10-22"/>
+          <FRBRdate date="2026-10-22" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-wi/act/wistat/chapter-1/section-1.01/eng@2026-10-22/akn.xml"/>
+          <FRBRuri value="/akn/us-wi/act/wistat/chapter-1/section-1.01/eng@2026-10-22/akn.xml"/>
+          <FRBRdate date="2026-10-22" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>83fa2cc93ddd2680c93f3fb8ac3f2cfc630ea21d1d945d6bd71667555d1fd598</meta:source_html_sha256>
+        <meta:doc_id>wistat-1.01</meta:doc_id>
+        <meta:jurisdiction>us_wi</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Chapter 1: Sovereignty And Jurisdiction Of The State</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>1983 a. 538 .</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1.01">
+        <num>1.01</num>
+        <heading>State sovereignty and jurisdiction</heading>
+        <paragraph eId="sec_1_01__p_1" class="indent-1">
+          <num>(intro.)</num>
+          <content>
+            <p>The sovereignty and jurisdiction of this state extend to all places within the boundaries declared in article II of the constitution, subject only to such rights of jurisdiction as have been or shall be acquired by the United States over any places therein; and the governor, and all subordinate officers of the state, shall maintain and defend its sovereignty and jurisdiction. Such sovereignty and jurisdiction are asserted and exercised over the St. Croix River from the eastern shore thereof to the center or thread of the same, and the exclusive jurisdiction of the state of Minnesota to authorize any person to obstruct the navigation of said river east of the center or thread thereof, or to enter upon the same and build piers, booms or other fixtures, or to occupy any part of said river east of the center or thread thereof for the purpose of sorting or holding logs, is denied; such acts can only be authorized by the concurrent consent of the legislature of this state.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

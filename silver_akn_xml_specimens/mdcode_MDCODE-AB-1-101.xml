@@ -1,0 +1,724 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-md/act/mdcode/article-ab/section-AB-1-101"/>
+          <FRBRuri value="/us-md/act/mdcode/article-ab/section-AB-1-101"/>
+          <FRBRdate date="2026-10-22" name="snapshot"/>
+          <FRBRauthor href="#mgaleg"/>
+          <FRBRcountry value="US-MD"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-md/act/mdcode/article-ab/section-AB-1-101/eng@2026-10-22"/>
+          <FRBRuri value="/us-md/act/mdcode/article-ab/section-AB-1-101/eng@2026-10-22"/>
+          <FRBRdate date="2026-10-22" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-md/act/mdcode/article-ab/section-AB-1-101/eng@2026-10-22/akn.xml"/>
+          <FRBRuri value="/us-md/act/mdcode/article-ab/section-AB-1-101/eng@2026-10-22/akn.xml"/>
+          <FRBRdate date="2026-10-22" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>ebb651b7d109ee63895b159b08c71d4781ec6401a4d6565a73bb600bee3512f3</meta:source_html_sha256>
+        <meta:doc_id>MDCODE-AB-1-101</meta:doc_id>
+        <meta:jurisdiction>US-MD</meta:jurisdiction>
+        <meta:container_id>AB</meta:container_id>
+        <meta:chapter_id>AB-1</meta:chapter_id>
+        <meta:chapter_name>Title 1</meta:chapter_name>
+        <meta:subchapter_id>AB-1-1</meta:subchapter_id>
+        <meta:subchapter_name>Subtitle 1</meta:subchapter_name>
+        <meta:history_note>Md. Code, Alcoholic Beverages and Cannabis § 1-101 (MGA 2027RS). Recent Legislative Actions: (a) without amendments (SB0054 / CH0048, SB0803 / CH0862, HB0452 / CH0047); (d) without amendments (SB0054 / CH0048, HB0452 / CH0047); (bb) amended (SB0803 / CH0862).</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_AB-1-101">
+        <num>AB-1-101</num>
+        <heading>Definitions</heading>
+        <paragraph eId="sec_AB-1-101__para_1" class="indent-1">
+          <num>(a)</num>
+          <content>
+            <p>(a) In this article the following words have the meanings indicated.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_2" class="indent-1">
+          <num>(b)(1)</num>
+          <content>
+            <p>(b)(1) “Alcoholic beverage” means a spirituous, vinous, malt, or fermented liquor, liquid, or compound that:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_3" class="indent-3">
+          <num>(i)</num>
+          <content>
+            <p>(i) contains at least one-half of 1% of alcohol by volume; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_4" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) is suitable for beverage purposes.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_5" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Alcoholic beverage” includes alcohol, brandy, whiskey, rum, gin, cordial, beer, and wine.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_6" class="indent-2">
+          <num>(3)</num>
+          <content>
+            <p>(3) “Alcoholic beverage” does not include a confectionery food product that contains up to 5% of alcohol by volume and is regulated by the Maryland Department of Health under § 21-209 of the Health - General Article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_7" class="indent-1">
+          <num>(c)(1)</num>
+          <content>
+            <p>(c)(1) “Beer” means a brewed alcoholic beverage.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_8" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Beer” includes:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_9" class="indent-3">
+          <num>(i)</num>
+          <content>
+            <p>(i) ale;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_10" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) porter;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_11" class="indent-3">
+          <num>(iii)</num>
+          <content>
+            <p>(iii) stout;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_12" class="indent-3">
+          <num>(iv)</num>
+          <content>
+            <p>(iv) hard cider that:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_13" class="indent-4">
+          <num>1.</num>
+          <content>
+            <p>1. is derived primarily from apples, apple concentrate and water, pears, or pear concentrate and water; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_14" class="indent-4">
+          <num>2.</num>
+          <content>
+            <p>2. contains no other fruit product but contains at least one-half of 1% and less than 8.5% of alcohol by volume;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_15" class="indent-3">
+          <num>(v)</num>
+          <content>
+            <p>(v) an alcoholic beverage that contains:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_16" class="indent-4">
+          <num>1.</num>
+          <content>
+            <p>1. 6% or less alcohol by volume, derived primarily from the fermentation of grain, with not more than 49% of the alcoholic beverage’s overall alcohol content by volume obtained from flavors and other added nonbeverage ingredients containing alcohol; or</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_17" class="indent-4">
+          <num>2.</num>
+          <content>
+            <p>2. more than 6% alcohol by volume, derived primarily from the fermentation of grain, with not more than 1.5% of the alcoholic beverage’s overall alcohol content by volume obtained from flavors and other added nonbeverage ingredients containing alcohol; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_18" class="indent-3">
+          <num>(vi)</num>
+          <content>
+            <p>(vi) mead.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_19" class="indent-1">
+          <num>(d)(1)</num>
+          <content>
+            <p>(d)(1) “Cannabis” means the plant Cannabis sativa L. and any part of the plant, including all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not, with a delta-9-tetrahydrocannabinol concentration greater than 0.3% on a dry weight basis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_20" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Cannabis” includes cannabis products, seeds, seedlings, immature plants, and clones.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_21" class="indent-2">
+          <num>(3)</num>
+          <content>
+            <p>(3) “Cannabis” does not include hemp or hemp products, as defined in § 14-101 of the Agriculture Article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_22" class="indent-1">
+          <num>(e)</num>
+          <content>
+            <p>(e) “Central Repository” means the Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_23" class="indent-1">
+          <num>(f)</num>
+          <content>
+            <p>(f) “Club” means an association or a corporation that is:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_24" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>(1) organized and operated exclusively for educational, social, fraternal, patriotic, political, or athletic purposes; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_25" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) nonprofit.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_26" class="indent-1">
+          <num>(g)</num>
+          <content>
+            <p>(g) “Commission” means the Alcohol, Tobacco, and Cannabis Commission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_27" class="indent-1">
+          <num>(h)(1)</num>
+          <content>
+            <p>(h)(1) “Comptroller” means the Comptroller of the State.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_28" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Comptroller” includes a deputy, an inspector, a clerk, or any other individual authorized to act by the Comptroller.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_29" class="indent-1">
+          <num>(i)</num>
+          <content>
+            <p>(i) “Consumer” means an individual at least 21 years old or a corporation not otherwise prohibited by this article or any other State law, that buys, possesses, keeps, or transports alcoholic beverages on which the taxes under Title 5 of the Tax - General Article have been paid, for the individual’s or corporation’s own use and not for sale.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_30" class="indent-1">
+          <num>(j)</num>
+          <content>
+            <p>(j) “County” means a county of the State or Baltimore City.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_31" class="indent-1">
+          <num>(k)(1)</num>
+          <content>
+            <p>(k)(1) “Executive Director” means the Executive Director of the Commission.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_32" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Executive Director” includes a deputy, an inspector, a clerk, or any other individual authorized to act by the Executive Director.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_33" class="indent-1">
+          <num>(l)(1)</num>
+          <content>
+            <p>(l)(1) “Family beer” means homemade beer produced for home consumption and not for sale.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_34" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Family beer” includes beer produced at a family beer and wine facility that has been granted a permit under § 2-138 of this article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_35" class="indent-1">
+          <num>(m)(1)</num>
+          <content>
+            <p>(m)(1) “Family wine” means homemade wine produced for home consumption and not for sale.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_36" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Family wine” includes wine produced at a family beer and wine facility that has been granted a permit under § 2-138 of this article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_37" class="indent-1">
+          <num>(n)(1)</num>
+          <content>
+            <p>(n)(1) Subject to paragraph (2) of this subsection, “hotel” means an establishment that:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_38" class="indent-3">
+          <num>(i)</num>
+          <content>
+            <p>(i) accommodates the public;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_39" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) is equipped with at least 10 bedrooms and a dining room with facilities for preparing and serving regular meals; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_40" class="indent-3">
+          <num>(iii)</num>
+          <content>
+            <p>(iii) has average daily receipts from the rental of rooms and sale of food that exceed the average daily receipts from the sale of alcoholic beverages.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_41" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) By regulation, a local licensing board may set a different standard as to what constitutes a hotel.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_42" class="indent-1">
+          <num>(o)</num>
+          <content>
+            <p>(o) “Illicit alcoholic beverage” means an alcoholic beverage that has been manufactured, bottled, or rectified:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_43" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>(1) in the State at a location not licensed under this article; or</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_44" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) outside the State at a location not licensed under the United States Internal Revenue Code or the laws of a foreign country.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_45" class="indent-1">
+          <num>(p)</num>
+          <content>
+            <p>(p) “Jurisdiction” means a county or the City of Annapolis.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_46" class="indent-1">
+          <num>(q)</num>
+          <content>
+            <p>(q) “License” means an alcoholic beverages license issued under this article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_47" class="indent-1">
+          <num>(r)(1)</num>
+          <content>
+            <p>(r)(1) “License holder” means the holder of an alcoholic beverages license issued or a permit granted under this article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_48" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “License holder” includes:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_49" class="indent-3">
+          <num>(i)</num>
+          <content>
+            <p>(i) a county liquor control board and a county dispensary; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_50" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) for the delivery and billing purposes of Title 2, Subtitle 3 and §§ 2-213 and 2-314 of this article, a corporation on behalf of which an individual has obtained a license.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_51" class="indent-1">
+          <num>(s)</num>
+          <content>
+            <p>(s) “Liquor” has the same meaning as “distilled spirits” under § 5-101(g) of the Tax - General Article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_52" class="indent-1">
+          <num>(t)(1)</num>
+          <content>
+            <p>(t)(1) “Local collecting agent” means:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_53" class="indent-3">
+          <num>(i)</num>
+          <content>
+            <p>(i) in the City of Annapolis, the city clerk;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_54" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) in Allegany County, Baltimore County, Howard County, Prince George’s County, or Wicomico County, the director of finance;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_55" class="indent-3">
+          <num>(iii)</num>
+          <content>
+            <p>(iii) in Calvert County, Dorchester County, St. Mary’s County, or Somerset County, the treasurer of the county; or</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_56" class="indent-3">
+          <num>(iv)</num>
+          <content>
+            <p>(iv) in each other county, the board of license commissioners unless another governmental unit is expressly authorized to collect fees under this article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_57" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Local collecting agent” does not include a clerk of a circuit court.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_58" class="indent-1">
+          <num>(u)</num>
+          <content>
+            <p>(u) “Local licensing board” means a board of license commissioners or other governmental unit of a jurisdiction that issues licenses.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_59" class="indent-1">
+          <num>(v)</num>
+          <content>
+            <p>(v) “Manufacturer’s license” means a license issued under Title 2, Subtitle 2 of this article that is:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_60" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>(1) a Class 1 distillery license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_61" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) a Class 2 rectifying license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_62" class="indent-2">
+          <num>(3)</num>
+          <content>
+            <p>(3) a Class 3 winery license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_63" class="indent-2">
+          <num>(4)</num>
+          <content>
+            <p>(4) a Class 4 limited winery license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_64" class="indent-2">
+          <num>(5)</num>
+          <content>
+            <p>(5) a Class 5 brewery license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_65" class="indent-2">
+          <num>(6)</num>
+          <content>
+            <p>(6) a Class 6 pub-brewery license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_66" class="indent-2">
+          <num>(7)</num>
+          <content>
+            <p>(7) a Class 7 micro-brewery license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_67" class="indent-2">
+          <num>(8)</num>
+          <content>
+            <p>(8) a Class 8 farm brewery license; or</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_68" class="indent-2">
+          <num>(9)</num>
+          <content>
+            <p>(9) a Class 9 limited distillery license.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_69" class="indent-1">
+          <num>(w)</num>
+          <content>
+            <p>(w) “Mead” means a fermented alcoholic beverage consisting primarily of honey and water.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_70" class="indent-1">
+          <num>(x)</num>
+          <content>
+            <p>(x) “Off-sale” means the sale of alcoholic beverages that are to be consumed off the licensed premises.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_71" class="indent-1">
+          <num>(y)</num>
+          <content>
+            <p>(y) “On-sale” means the sale of alcoholic beverages that are to be consumed on the licensed premises.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_72" class="indent-1">
+          <num>(z)</num>
+          <content>
+            <p>(z) “Person” means:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_73" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>(1) an individual;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_74" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) an association, a partnership, a corporation, a trust, or any other entity, and the officers, directors, and other individuals in active control of the activities of the association, partnership, corporation, trust, or other entity; or</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_75" class="indent-2">
+          <num>(3)(i)</num>
+          <content>
+            <p>(3)(i) the State or a political subdivision of the State, or a unit or an instrumentality of the State or a political subdivision of the State; or</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_76" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) another state or a political subdivision of that state.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_77" class="indent-1">
+          <num>(aa)</num>
+          <content>
+            <p>(aa) “Political subdivision” means a county or a municipality.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_78" class="indent-1">
+          <num>(bb)</num>
+          <content>
+            <p>(bb) “Pomace brandy” means:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_79" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>(1) brandy that is distilled from the pulpy residue of wine pressing, including the skins, pips, and stalks of grapes; or</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_80" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) a brandy, not exceeding 80 proof, that is distilled by a Class 4 limited winery license from wine produced under the Class 4 limited winery license with ingredients that include at least 51% Maryland-grown agricultural products.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_81" class="indent-1">
+          <num>(cc)(1)</num>
+          <content>
+            <p>(cc)(1) Subject to paragraph (2) of this subsection, “restaurant” means an establishment that:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_82" class="indent-3">
+          <num>(i)</num>
+          <content>
+            <p>(i) accommodates the public;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_83" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) is equipped with a dining room with facilities for preparing and serving regular meals; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_84" class="indent-3">
+          <num>(iii)</num>
+          <content>
+            <p>(iii) has average daily receipts from the sale of food that exceed the average daily receipts from the sale of alcoholic beverages.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_85" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) By regulation, a local licensing board may set a different standard as to what constitutes a restaurant.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_86" class="indent-1">
+          <num>(dd)(1)</num>
+          <content>
+            <p>(dd)(1) “Retail dealer” means a person that sells an alcoholic beverage to any person other than a license holder.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_87" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Retail dealer” includes a county dispensary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_88" class="indent-1">
+          <num>(ee)</num>
+          <content>
+            <p>(ee) “7-day license” means a license that is in effect every day of the week.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_89" class="indent-1">
+          <num>(ff)</num>
+          <content>
+            <p>(ff) “6-day license” means a license that is in effect Monday through Saturday.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_90" class="indent-1">
+          <num>(gg)(1)</num>
+          <content>
+            <p>(gg)(1) Except as provided in paragraph (2) of this subsection, “state” means:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_91" class="indent-3">
+          <num>(i)</num>
+          <content>
+            <p>(i) a state, possession, territory, or commonwealth of the United States; or</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_92" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) the District of Columbia.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_93" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) When capitalized, “State” means Maryland.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_94" class="indent-1">
+          <num>(hh)</num>
+          <content>
+            <p>(hh) “Tobacco” includes cigarettes regulated under Title 16 of the Business Regulation Article and other tobacco and related products regulated under Title 16.5, 16.7, or 16.9 of the Business Regulation Article.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_95" class="indent-1">
+          <num>(ii)(1)</num>
+          <content>
+            <p>(ii)(1) “Wholesaler” means:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_96" class="indent-3">
+          <num>(i)</num>
+          <content>
+            <p>(i) a person that purchases or imports an alcoholic beverage for sale to wholesale dealers or retail dealers only; or</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_97" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) a limited winery that sells wine to retail dealers.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_98" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Wholesaler” includes:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_99" class="indent-3">
+          <num>(i)</num>
+          <content>
+            <p>(i) a county liquor control board; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_100" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) a county wholesale dispensary.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_101" class="indent-1">
+          <num>(jj)</num>
+          <content>
+            <p>(jj) “Wholesaler’s license” means a license issued under Title 2, Subtitle 3 of this article that is:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_102" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>(1) a Class 1 beer, wine, and liquor license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_103" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) a Class 2 wine and liquor license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_104" class="indent-2">
+          <num>(3)</num>
+          <content>
+            <p>(3) a Class 3 beer and wine license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_105" class="indent-2">
+          <num>(4)</num>
+          <content>
+            <p>(4) a Class 4 beer license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_106" class="indent-2">
+          <num>(5)</num>
+          <content>
+            <p>(5) a Class 5 wine license;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_107" class="indent-2">
+          <num>(6)</num>
+          <content>
+            <p>(6) a Class 6 limited wine license; or</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_108" class="indent-2">
+          <num>(7)</num>
+          <content>
+            <p>(7) a Class 7 limited beer license.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_109" class="indent-1">
+          <num>(kk)(1)</num>
+          <content>
+            <p>(kk)(1) “Wine” means a fermented beverage.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_110" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) “Wine” includes:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_111" class="indent-3">
+          <num>(i)</num>
+          <content>
+            <p>(i) light wine;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_112" class="indent-3">
+          <num>(ii)</num>
+          <content>
+            <p>(ii) sparkling wine that is naturally or artificially carbonated; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AB-1-101__para_113" class="indent-3">
+          <num>(iii)</num>
+          <content>
+            <p>(iii) fortified wine to which alcohol, spirits, or other ingredients are added.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

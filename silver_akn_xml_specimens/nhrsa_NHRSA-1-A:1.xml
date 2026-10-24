@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-nh/act/nhrsa/title-i/section-1-A:1"/>
+          <FRBRuri value="/us-nh/act/nhrsa/title-i/section-1-A:1"/>
+          <FRBRdate date="2026-10-18" name="snapshot"/>
+          <FRBRauthor href="#nhgencourt"/>
+          <FRBRcountry value="US-NH"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-nh/act/nhrsa/title-i/section-1-A:1/eng@2026-10-18"/>
+          <FRBRuri value="/us-nh/act/nhrsa/title-i/section-1-A:1/eng@2026-10-18"/>
+          <FRBRdate date="2026-10-18" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-nh/act/nhrsa/title-i/section-1-A:1/eng@2026-10-18/akn.xml"/>
+          <FRBRuri value="/us-nh/act/nhrsa/title-i/section-1-A:1/eng@2026-10-18/akn.xml"/>
+          <FRBRdate date="2026-10-18" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>943566b211204f65b96339c94b6fd27d99fe1a329d2ee116eec1cc343c3e94e8</meta:source_html_sha256>
+        <meta:doc_id>NHRSA-1-A:1</meta:doc_id>
+        <meta:jurisdiction>US-NH</meta:jurisdiction>
+        <meta:container_id>I</meta:container_id>
+        <meta:chapter_id>1-A</meta:chapter_id>
+        <meta:chapter_name>NEW HAMPSHIRE COORDINATE SYSTEM</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>1985, 216:1, eff. July 30, 1985. 2026, 196:1, eff. June 19, 2026.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-A:1">
+        <num>1-A:1</num>
+        <heading>Definitions</heading>
+        <paragraph eId="sec_1-A:1__para_1" class="indent-1">
+          <content>
+            <p>In this chapter:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-A:1__para_2" class="indent-1">
+          <num>I.</num>
+          <content>
+            <p>I. "The New Hampshire coordinate system of 1927", as defined by the former United States Coast and Geodetic Survey, means a transverse mercator projection of the Clarke spheroid of 1866, having a standard meridian at 71degree40' along which meridian the scale shall be one part in 30,000 too small. The origin of coordinates is at the intersection of the said meridian 70degree40' west of Greenwich and the parallel 42degree30' north latitude. This origin is given the coordinates: x = 500,000 feet and y = 0 feet.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-A:1__para_3" class="indent-1">
+          <num>II.</num>
+          <content>
+            <p>II. "The New Hampshire coordinate system of 1983", as defined by the National Ocean Service/National Geodetic Survey, means a transverse mercator projection of the North American datum of 1983, having a standard meridian at 71degree40' along which meridian the scale shall be one part in 30,000 too small. The origin of coordinates is at the intersection of the said meridian 71degree40' west of Greenwich and the parallel 42degree30' north latitude. This origin is given the coordinates: x = 300,000 meters and y = 0 meters.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-A:1__para_4" class="indent-1">
+          <num>III.</num>
+          <content>
+            <p>III. The "New Hampshire state plane coordinate system" (NHSPCS) is identical to the New Hampshire portion of the state plane coordinate system (SPCS) as defined by the National Geodetic Survey (NGS) or its successors meaning the most recent system of plane coordinates which has been officially released for public use by the National Geodetic Survey (NGS) or its successors, based on the National Spatial Reference System (NSRS) or its successors.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

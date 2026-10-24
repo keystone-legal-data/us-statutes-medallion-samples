@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-wv/act/wvcode/chapter-1/section-1-1-1"/>
+          <FRBRuri value="/akn/us-wv/act/wvcode/chapter-1/section-1-1-1"/>
+          <FRBRdate date="2026-10-22" name="snapshot"/>
+          <FRBRauthor href="#wvlegislature"/>
+          <FRBRcountry value="US-WV"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-wv/act/wvcode/chapter-1/section-1-1-1/eng@2026-10-22"/>
+          <FRBRuri value="/akn/us-wv/act/wvcode/chapter-1/section-1-1-1/eng@2026-10-22"/>
+          <FRBRdate date="2026-10-22" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-wv/act/wvcode/chapter-1/section-1-1-1/eng@2026-10-22/akn.xml"/>
+          <FRBRuri value="/akn/us-wv/act/wvcode/chapter-1/section-1-1-1/eng@2026-10-22/akn.xml"/>
+          <FRBRdate date="2026-10-22" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>e71fa8cfdc7cbc404a79214ee6b964b851b4e6bccc2d3ba76759fa80a6286e51</meta:source_html_sha256>
+        <meta:doc_id>WVCODE-1-1-1</meta:doc_id>
+        <meta:jurisdiction>US-WV</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1-1</meta:chapter_id>
+        <meta:chapter_name>Article 1 - LIMITS AND JURISDICTION</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>West Virginia Code Chapter 1 (THE STATE AND ITS SUBDIVISIONS), Article 1 - LIMITS AND JURISDICTION, §1-1-1</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1-1">
+        <num>1-1-1</num>
+        <heading>Counties comprising state of West Virginia</heading>
+        <paragraph eId="sec_1_1_1__p_1" class="indent-1">
+          <num>p_1</num>
+          <content>
+            <p>The state of West Virginia includes all the territory formerly belonging to the state of Virginia and now comprising the following counties, to wit: Barbour, Berkeley, Boone, Braxton, Brooke, Cabell, Calhoun, Clay, Doddridge, Fayette, Gilmer, Grant, Greenbrier, Hampshire, Hancock, Hardy, Harrison, Jackson, Jefferson, Kanawha, Lewis, Lincoln, Logan, Marion, Marshall, Mason, McDowell, Mercer, Mineral, Mingo, Monongalia, Monroe, Morgan, Nicholas, Ohio, Pendleton, Pleasants, Pocahontas, Preston, Putnam, Raleigh, Randolph, Ritchie, Roane, Summers, Taylor, Tucker, Tyler, Upshur, Wayne, Webster, Wetzel, Wirt, Wood and Wyoming.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

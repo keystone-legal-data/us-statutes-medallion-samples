@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-vi/act/vic/title-1/section-1-1"/>
+          <FRBRuri value="/us-vi/act/vic/title-1/section-1-1"/>
+          <FRBRdate date="2026-10-21" name="snapshot"/>
+          <FRBRauthor href="#usvileg"/>
+          <FRBRcountry value="US-VI"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-vi/act/vic/title-1/section-1-1/eng@2026-10-21"/>
+          <FRBRuri value="/us-vi/act/vic/title-1/section-1-1/eng@2026-10-21"/>
+          <FRBRdate date="2026-10-21" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-vi/act/vic/title-1/section-1-1/eng@2026-10-21/akn.xml"/>
+          <FRBRuri value="/us-vi/act/vic/title-1/section-1-1/eng@2026-10-21/akn.xml"/>
+          <FRBRdate date="2026-10-21" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>5209a6c50a4e2a33ed938f3bdadaf752c42edfd3ae9886f0d9e1eee28955e155</meta:source_html_sha256>
+        <meta:doc_id>VIC-1-1</meta:doc_id>
+        <meta:jurisdiction>US-VI</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Chapter 1 - Virgin Islands Code</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>1 V.I.C. § 1.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1">
+        <num>1-1</num>
+        <heading>Designation and citation of Code</heading>
+        <paragraph eId="sec_1-1__para_1" class="indent-1">
+          <num>(a)</num>
+          <content>
+            <p>(a) The laws embraced in the titles herein contained, as amended from time to time, constitute the “Virgin Islands Code.”</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1__para_2" class="indent-1">
+          <num>(b)</num>
+          <content>
+            <p>(b) This Code may be cited by the abbreviation “V.I.C.” preceded by the number of the title and followed by the number of the section, chapter, or part in the title.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

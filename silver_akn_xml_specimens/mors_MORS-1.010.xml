@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-mo/act/mors/title-i/section-1.010"/>
+          <FRBRuri value="/us-mo/act/mors/title-i/section-1.010"/>
+          <FRBRdate date="2026-10-18" name="snapshot"/>
+          <FRBRauthor href="#moleg"/>
+          <FRBRcountry value="US-MO"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-mo/act/mors/title-i/section-1.010/eng@2026-10-18"/>
+          <FRBRuri value="/us-mo/act/mors/title-i/section-1.010/eng@2026-10-18"/>
+          <FRBRdate date="2026-10-18" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-mo/act/mors/title-i/section-1.010/eng@2026-10-18/akn.xml"/>
+          <FRBRuri value="/us-mo/act/mors/title-i/section-1.010/eng@2026-10-18/akn.xml"/>
+          <FRBRdate date="2026-10-18" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>0b3e15a5204184548beb5e172670b27aefa71db403ab6c2a88d2ab2c99b1c07f</meta:source_html_sha256>
+        <meta:doc_id>MORS-1.010</meta:doc_id>
+        <meta:jurisdiction>US-MO</meta:jurisdiction>
+        <meta:container_id>I</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Laws in Force and Construction of Statutes</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>(RSMo 1939 § 645, A.L. 1957 p. 587, A.L. 2015 S.B. 239) — Prior revisions: 1929 § 645; 1919 § 7048; 1909 § 8047</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1.010">
+        <num>1.010</num>
+        <heading>Common law in force — effect on statutes — failure to render health care services, no common law cause of action</heading>
+        <paragraph eId="sec_1.010__para_1" class="indent-1">
+          <num>1.</num>
+          <content>
+            <p>1. The common law of England and all statutes and acts of parliament made prior to the fourth year of the reign of James the First, of a general nature, which are not local to that kingdom and not repugnant to or inconsistent with the Constitution of the United States, the constitution of this state, or the statute laws in force for the time being, are the rule of action and decision in this state, any custom or usage to the contrary notwithstanding, but no act of the general assembly or law of this state shall be held to be invalid, or limited in its scope or effect by the courts of this state, for the reason that it is in derogation of, or in conflict with, the common law, or with such statutes or acts of parliament; but all acts of the general assembly, or laws, shall be liberally construed, so as to effectuate the true intent and meaning thereof.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1.010__para_2" class="indent-1">
+          <num>2.</num>
+          <content>
+            <p>2. The general assembly expressly excludes from this section the common law of England as it relates to claims arising out of the rendering of or failure to render health care services by a health care provider, it being the intent of the general assembly to replace those claims with statutory causes of action.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

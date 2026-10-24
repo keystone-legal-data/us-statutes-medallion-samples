@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-il/act/ilcs/chapter-5/section-5-100-1-1"/>
+          <FRBRuri value="/us-il/act/ilcs/chapter-5/section-5-100-1-1"/>
+          <FRBRdate date="2026-10-17" name="snapshot"/>
+          <FRBRauthor href="#ilga"/>
+          <FRBRcountry value="US-IL"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-il/act/ilcs/chapter-5/section-5-100-1-1/eng@2026-10-17"/>
+          <FRBRuri value="/us-il/act/ilcs/chapter-5/section-5-100-1-1/eng@2026-10-17"/>
+          <FRBRdate date="2026-10-17" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-il/act/ilcs/chapter-5/section-5-100-1-1/eng@2026-10-17/akn.xml"/>
+          <FRBRuri value="/us-il/act/ilcs/chapter-5/section-5-100-1-1/eng@2026-10-17/akn.xml"/>
+          <FRBRdate date="2026-10-17" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>5306dab45c1e0d41d2db9beb6ed876ea55705a0b21323f675fed7fae512ead76</meta:source_html_sha256>
+        <meta:doc_id>ILCS-5-100-1-1</meta:doc_id>
+        <meta:jurisdiction>US-IL</meta:jurisdiction>
+        <meta:container_id>5</meta:container_id>
+        <meta:chapter_id>100</meta:chapter_id>
+        <meta:chapter_name>Act 100 — Illinois Administrative Procedure Act</meta:chapter_name>
+        <meta:subchapter_id>Art. 1</meta:subchapter_id>
+        <meta:subchapter_name>ARTICLE 1. TITLE AND GENERAL PROVISIONS</meta:subchapter_name>
+        <meta:history_note>(Source: P.A. 86-1475; 87-823.)</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_5-100-1-1">
+        <num>5-100-1-1</num>
+        <heading>Short title</heading>
+        <paragraph eId="sec_5_100_1_1__para_1" class="indent-1">
+          <content>
+            <p>This Act may be cited as the Illinois Administrative Procedure Act.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-mn/act/mnstat/part-1-2a/section-1.01"/>
+          <FRBRuri value="/us-mn/act/mnstat/part-1-2a/section-1.01"/>
+          <FRBRdate date="2026-10-18" name="snapshot"/>
+          <FRBRauthor href="#mnrevisor"/>
+          <FRBRcountry value="US-MN"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-mn/act/mnstat/part-1-2a/section-1.01/eng@2026-10-18"/>
+          <FRBRuri value="/us-mn/act/mnstat/part-1-2a/section-1.01/eng@2026-10-18"/>
+          <FRBRdate date="2026-10-18" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-mn/act/mnstat/part-1-2a/section-1.01/eng@2026-10-18/akn.xml"/>
+          <FRBRuri value="/us-mn/act/mnstat/part-1-2a/section-1.01/eng@2026-10-18/akn.xml"/>
+          <FRBRdate date="2026-10-18" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>c816deee30a4ba57545c577565f6efc9ce253fd7d9a63f0d15e62b0869d0e395</meta:source_html_sha256>
+        <meta:doc_id>MNSTAT-1.01</meta:doc_id>
+        <meta:jurisdiction>US-MN</meta:jurisdiction>
+        <meta:container_id>1-2A</meta:container_id>
+        <meta:chapter_id>Part 1-2A</meta:chapter_id>
+        <meta:chapter_name>JURISDICTION, CIVIL DIVISIONS</meta:chapter_name>
+        <meta:subchapter_id>Chapter 1</meta:subchapter_id>
+        <meta:subchapter_name>SOVEREIGNTY, JURISDICTION, EMERGENCY OPERATION, GENERAL POLICIES</meta:subchapter_name>
+        <meta:history_note>( 1 ) RL s 1 ; 1984 c 628 art 1 s 1</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1.01">
+        <num>1.01</num>
+        <heading>EXTENT</heading>
+        <paragraph eId="sec_1.01__para_1" class="indent-1">
+          <content>
+            <p>The sovereignty and jurisdiction of this state extend to all places within its boundaries as defined in the constitution and, concurrently, to the waters forming a common boundary between this and adjoining states, subject only to rights of jurisdiction acquired by the United States over places in it.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

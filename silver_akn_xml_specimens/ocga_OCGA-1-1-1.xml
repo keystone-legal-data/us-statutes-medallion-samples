@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ga/act/ocga/title-1/section-1-1-1"/>
+          <FRBRuri value="/us-ga/act/ocga/title-1/section-1-1-1"/>
+          <FRBRdate date="2026-10-17" name="snapshot"/>
+          <FRBRauthor href="#galeg"/>
+          <FRBRcountry value="US-GA"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ga/act/ocga/title-1/section-1-1-1/eng@2026-10-17"/>
+          <FRBRuri value="/us-ga/act/ocga/title-1/section-1-1-1/eng@2026-10-17"/>
+          <FRBRdate date="2026-10-17" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ga/act/ocga/title-1/section-1-1-1/eng@2026-10-17/akn.xml"/>
+          <FRBRuri value="/us-ga/act/ocga/title-1/section-1-1-1/eng@2026-10-17/akn.xml"/>
+          <FRBRdate date="2026-10-17" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>9aa5c91f69826002ba38cbf35beed29e2fcdb1134f3a98fca9c8b63eab063984</meta:source_html_sha256>
+        <meta:doc_id>OCGA-1-1-1</meta:doc_id>
+        <meta:jurisdiction>US-GA</meta:jurisdiction>
+        <meta:container_id>01</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>General Provisions</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Ga. L. 1982, p. 3, § 1; Ga. L. 2021, p. 916, § 1/SB 238.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1-1">
+        <num>1-1-1</num>
+        <heading>Enactment of Code</heading>
+        <paragraph eId="sec_1-1-1__para_1" class="indent-1">
+          <num>(a)</num>
+          <content>
+            <p>(a) The statutory portion of the codification of Georgia laws prepared by the Code Revision Commission and the Michie Company pursuant to a contract entered into on June 19, 1978, is enacted and shall have the effect of statutes enacted by the General Assembly of Georgia. The statutory portion and numbering and arrangement of such codification, along with supplementary content determined to be useful to users, shall be published by the state and when so published shall be known and may be cited as the “Official Code of Georgia Annotated.”</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_2" class="indent-1">
+          <num>(b)</num>
+          <content>
+            <p>(b) The following matter contained in the Official Code of Georgia Annotated, including all supplements and revised volumes thereof, shall be considered enacted by the General Assembly:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_3" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>(1) Statutory text; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_4" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) Arrangement and numbering system, including, but not limited to, title, chapter, article, part, subpart, Code section, subsection, paragraph, subparagraph, division, and subdivision numbers and designations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_5" class="indent-1">
+          <num>(c)</num>
+          <content>
+            <p>(c) The following matter contained in the Official Code of Georgia Annotated, including all supplements and revised volumes thereof, shall not be considered enacted by the General Assembly, shall bear no additional weight or effect, and shall not be construed to have the imprimatur of the General Assembly by virtue of such inclusion in the Official Code of Georgia Annotated:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_6" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>(1) Case annotations;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_7" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>(2) Research references, including, but not limited to:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_8" class="indent-3">
+          <num>(A)</num>
+          <content>
+            <p>(A) Law reviews;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_9" class="indent-3">
+          <num>(B)</num>
+          <content>
+            <p>(B) Collateral references to secondary sources;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_10" class="indent-3">
+          <num>(C)</num>
+          <content>
+            <p>(C) Opinions of the Georgia Attorney General;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_11" class="indent-3">
+          <num>(D)</num>
+          <content>
+            <p>(D) Advisory opinions of the State Bar; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_12" class="indent-3">
+          <num>(E)</num>
+          <content>
+            <p>(E) Cross-references;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_13" class="indent-2">
+          <num>(3)</num>
+          <content>
+            <p>(3) Captions;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_14" class="indent-2">
+          <num>(4)</num>
+          <content>
+            <p>(4) Catchlines;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_15" class="indent-2">
+          <num>(5)</num>
+          <content>
+            <p>(5) Headings;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_16" class="indent-2">
+          <num>(6)</num>
+          <content>
+            <p>(6) Title and chapter analyses;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_17" class="indent-2">
+          <num>(7)</num>
+          <content>
+            <p>(7) History lines;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_18" class="indent-2">
+          <num>(8)</num>
+          <content>
+            <p>(8) Repeal lines;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_19" class="indent-2">
+          <num>(9)</num>
+          <content>
+            <p>(9) Editorial notes;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_20" class="indent-2">
+          <num>(10)</num>
+          <content>
+            <p>(10) Amendment notes;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_21" class="indent-2">
+          <num>(11)</num>
+          <content>
+            <p>(11) Code Commission notes;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_22" class="indent-2">
+          <num>(12)</num>
+          <content>
+            <p>(12) Effective date notes;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_23" class="indent-2">
+          <num>(13)</num>
+          <content>
+            <p>(13) Tables;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_24" class="indent-2">
+          <num>(14)</num>
+          <content>
+            <p>(14) User’s Guide;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_25" class="indent-2">
+          <num>(15)</num>
+          <content>
+            <p>(15) General Index;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_26" class="indent-2">
+          <num>(16)</num>
+          <content>
+            <p>(16) Volume indices;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_27" class="indent-2">
+          <num>(17)</num>
+          <content>
+            <p>(17) Indices related to local and special laws;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_28" class="indent-2">
+          <num>(18)</num>
+          <content>
+            <p>(18) Conversion tables;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_29" class="indent-2">
+          <num>(19)</num>
+          <content>
+            <p>(19) Rules and regulations of state agencies, departments, boards, commissions, or other entities;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_30" class="indent-2">
+          <num>(20)</num>
+          <content>
+            <p>(20) Material in brackets or parentheses and editorial, delayed effective date, effect of amendment, or other similar notes within the text of a Code section which has been added by the publisher in order to explain or to prevent a misapprehension concerning the contents of the Code section; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_31" class="indent-2">
+          <num>(21)</num>
+          <content>
+            <p>(21) Any other matter published in the Official Code of Georgia Annotated which is not included in subsection (b) of this Code section.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

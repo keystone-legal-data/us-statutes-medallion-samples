@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ms/act/mscode/title-1/section-1-1-1"/>
+          <FRBRuri value="/us-ms/act/mscode/title-1/section-1-1-1"/>
+          <FRBRdate date="2026-10-22" name="snapshot"/>
+          <FRBRauthor href="#msleg"/>
+          <FRBRcountry value="US-MS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ms/act/mscode/title-1/section-1-1-1/eng@2026-10-22"/>
+          <FRBRuri value="/us-ms/act/mscode/title-1/section-1-1-1/eng@2026-10-22"/>
+          <FRBRdate date="2026-10-22" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ms/act/mscode/title-1/section-1-1-1/eng@2026-10-22/akn.xml"/>
+          <FRBRuri value="/us-ms/act/mscode/title-1/section-1-1-1/eng@2026-10-22/akn.xml"/>
+          <FRBRdate date="2026-10-22" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>de076b30b08176bf898ed1659944f573f6fe4920bedd9b6c688689e3c567f5aa</meta:source_html_sha256>
+        <meta:doc_id>MSCODE-1-1-1</meta:doc_id>
+        <meta:jurisdiction>US-MS</meta:jurisdiction>
+        <meta:container_id>01</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Code of 1972</meta:chapter_name>
+        <meta:subchapter_id>In General</meta:subchapter_id>
+        <meta:subchapter_name>In General</meta:subchapter_name>
+        <meta:history_note>Repealed by Laws, 1996, ch. 502, § 21, eff from and after passage (approved April 11, 1996).</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1-1">
+        <num>1-1-1</num>
+        <heading>1 through 1-1-6. Repealed</heading>
+        <paragraph eId="sec_1-1-1__para_1" class="indent-1">
+          <content>
+            <p>Repealed by Laws, 1996, ch. 502, § 21, eff from and after passage (approved April 11, 1996).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_1-1-1__para_2" class="indent-1">
+          <content>
+            <p>§§ 1-1-1 through 1-1-6 . [Codes, 1942, §§ 21-01 through 21-03, 21-10; Laws, 1970, ch. 465, §§ 1-3; Laws, 1970, ch. 394, § 5]</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

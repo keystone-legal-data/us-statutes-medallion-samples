@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-mt/act/mca/title-1/section-1-1-101"/>
+          <FRBRuri value="/us-mt/act/mca/title-1/section-1-1-101"/>
+          <FRBRdate date="2026-10-18" name="snapshot"/>
+          <FRBRauthor href="#mtleg"/>
+          <FRBRcountry value="US-MT"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-mt/act/mca/title-1/section-1-1-101/eng@2026-10-18"/>
+          <FRBRuri value="/us-mt/act/mca/title-1/section-1-1-101/eng@2026-10-18"/>
+          <FRBRdate date="2026-10-18" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-mt/act/mca/title-1/section-1-1-101/eng@2026-10-18/akn.xml"/>
+          <FRBRuri value="/us-mt/act/mca/title-1/section-1-1-101/eng@2026-10-18/akn.xml"/>
+          <FRBRdate date="2026-10-18" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>b66c22580bdbeaa0804a4276b34fb35109b615976a2d168185629a019214c9b0</meta:source_html_sha256>
+        <meta:doc_id>MCA-1-1-101</meta:doc_id>
+        <meta:jurisdiction>US-MT</meta:jurisdiction>
+        <meta:container_id>01</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>GENERAL PROVISIONS</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name>Part 1. Meaning of Law</meta:subchapter_name>
+        <meta:history_note>En. Sec. 5150, Pol. C. 1895; re-en. Sec. 3550, Rev. C. 1907; re-en. Sec. 5670, R.C.M. 1921; Cal. Pol. C. Sec. 4466; re-en. Sec. 5670, R.C.M. 1935; R.C.M. 1947, 12-101.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1-101">
+        <num>1-1-101</num>
+        <heading>Definition of law</heading>
+        <paragraph eId="sec_1-1-101__para_1" class="indent-1">
+          <content>
+            <p>"Law" is a solemn expression of the will of the supreme power of the state.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

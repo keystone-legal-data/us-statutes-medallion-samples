@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ak/act/akstat/title-1/section-01.05.006"/>
+          <FRBRuri value="/us-ak/act/akstat/title-1/section-01.05.006"/>
+          <FRBRdate date="2026-10-15" name="snapshot"/>
+          <FRBRauthor href="#akleg"/>
+          <FRBRcountry value="US-AK"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ak/act/akstat/title-1/section-01.05.006/eng@2026-10-15"/>
+          <FRBRuri value="/us-ak/act/akstat/title-1/section-01.05.006/eng@2026-10-15"/>
+          <FRBRdate date="2026-10-15" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ak/act/akstat/title-1/section-01.05.006/eng@2026-10-15/akn.xml"/>
+          <FRBRuri value="/us-ak/act/akstat/title-1/section-01.05.006/eng@2026-10-15/akn.xml"/>
+          <FRBRdate date="2026-10-15" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>00d5534999d881dc8cd8d9ef661035e6245e561ab13208d5ae026f8a5d51f6ea</meta:source_html_sha256>
+        <meta:doc_id>AKSTAT-01.05.006</meta:doc_id>
+        <meta:jurisdiction>US-AK</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>05</meta:chapter_id>
+        <meta:chapter_name>Alaska Statutes</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note></meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_01.05.006">
+        <num>01.05.006</num>
+        <heading>Adoption of Alaska Statutes; notes, headings, and references not law</heading>
+        <paragraph eId="sec_01.05.006__para_1" class="indent-1">
+          <content>
+            <p>The bulk formal revision of the laws of Alaska which was authorized by AS 24.20.070 and prepared under the direction of the Alaska Legislative Council and published by The Michie Company, legal publishers, of Charlottesville, Virginia, and titled “Alaska Statutes,” as set out in the 47 titles of the Alaska Statutes, but not including the table of contents, indexes, citations to Alaska Compiled Laws Annotated, 1949, and session laws, chapter, article, section, subsection, and paragraph headings, annotations, collateral references, notes, and decisions, is adopted and enacted as the general and permanent law of Alaska.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

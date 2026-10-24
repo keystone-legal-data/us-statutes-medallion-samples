@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-tx/act/code/txstat/TXSTAT-AG-1.001"/>
+          <FRBRuri value="/akn/us-tx/act/code/txstat/TXSTAT-AG-1.001"/>
+          <FRBRdate date="2026-10-20" name="snapshot"/>
+          <FRBRauthor href="#legislature"/>
+          <FRBRcountry value="US-TX"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-tx/act/code/txstat/TXSTAT-AG-1.001/eng@2026-10-20"/>
+          <FRBRuri value="/akn/us-tx/act/code/txstat/TXSTAT-AG-1.001/eng@2026-10-20"/>
+          <FRBRdate date="2026-10-20" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-tx/act/code/txstat/TXSTAT-AG-1.001/eng@2026-10-20/akn.xml"/>
+          <FRBRuri value="/akn/us-tx/act/code/txstat/TXSTAT-AG-1.001/eng@2026-10-20/akn.xml"/>
+          <FRBRdate date="2026-10-20" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>043c218fc9651abf02e5272c32e5a7c5e572c7a97bb12345e0c61ca4a9e35d95</meta:source_html_sha256>
+        <meta:doc_id>TXSTAT-AG-1.001</meta:doc_id>
+        <meta:jurisdiction>US-TX</meta:jurisdiction>
+        <meta:container_id>AG</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>GENERAL PROVISIONS</meta:chapter_name>
+        <meta:subchapter_id>Title 1</meta:subchapter_id>
+        <meta:subchapter_name>GENERAL PROVISIONS</meta:subchapter_name>
+        <meta:history_note>Acts 1981, 67th Leg., p. 1015, ch. 388, Sec. 1, eff. Sept. 1, 1981.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_AG-1.001">
+        <num>AG-1.001</num>
+        <heading>PURPOSE OF CODE</heading>
+        <paragraph eId="sec_AG-1.001__p_1" class="indent-1">
+          <num>(a)</num>
+          <content>
+            <p>This code is enacted as a part of the state's continuing statutory revision program, begun by the Texas Legislative Council in 1963 as directed by the legislature in Chapter 448, Acts of the 58th Legislature, Regular Session, 1963 (Article 5429b-1, Vernon's Texas Civil Statutes). The program contemplates a topic-by-topic revision of the state's general and permanent statute law without substantive change.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AG-1.001__p_2" class="indent-1">
+          <num>(b)</num>
+          <content>
+            <p>Consistent with the objectives of the statutory revision program, the purpose of this code is to make the agriculture law more accessible and understandable, by:</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AG-1.001__p_3" class="indent-2">
+          <num>(1)</num>
+          <content>
+            <p>rearranging the statutes into a more logical order;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AG-1.001__p_4" class="indent-2">
+          <num>(2)</num>
+          <content>
+            <p>employing a format and numbering system designed to facilitate citation of the law and to accommodate future expansion of the law;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AG-1.001__p_5" class="indent-2">
+          <num>(3)</num>
+          <content>
+            <p>eliminating repealed, duplicative, unconstitutional, expired, executed, and other ineffective provisions; and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="sec_AG-1.001__p_6" class="indent-2">
+          <num>(4)</num>
+          <content>
+            <p>restating the law in modern American English to the greatest extent possible.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/akn/us/act/usc/title-1/section-1-1"/>
+          <FRBRuri value="/akn/us/act/usc/title-1/section-1-1"/>
+          <FRBRdate date="2026-10-22" name="snapshot"/>
+          <FRBRauthor href="us-congress"/>
+          <FRBRcountry value="us_fed"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us/act/usc/title-1/section-1-1/eng@2026-10-22"/>
+          <FRBRuri value="/akn/us/act/usc/title-1/section-1-1/eng@2026-10-22"/>
+          <FRBRdate date="2026-10-22" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us/act/usc/title-1/section-1-1/eng@2026-10-22/akn.xml"/>
+          <FRBRuri value="/akn/us/act/usc/title-1/section-1-1/eng@2026-10-22/akn.xml"/>
+          <FRBRdate date="2026-10-22" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>e7d239dac1b88f61d16e3e79d65c1a0cdca182c5d47790ae2f79d7fd971ac868</meta:source_html_sha256>
+        <meta:doc_id>usc-1-1</meta:doc_id>
+        <meta:jurisdiction>us_fed</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1-1</meta:chapter_id>
+        <meta:chapter_name>CHAPTER 1: RULES OF CONSTRUCTION</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>July 30, 1947, ch. 388, 61 Stat. 633; June 25, 1948, ch. 645, § 6, 62 Stat. 859; Oct. 31, 1951, ch. 655, § 1, 65 Stat. 710; Pub. L. 112–231, § 2(a), Dec. 28, 2012, 126 Stat. 1619.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-1">
+        <num>1-1</num>
+        <heading>Words denoting number, gender, and so forth</heading>
+        <paragraph eId="sec_1_1__p_1" class="indent-1">
+          <num>p_1</num>
+          <content>
+            <p>In determining the meaning of any Act of Congress, unless the context indicates otherwise— words importing the singular include and apply to several persons, parties, or things; words importing the plural include the singular; words importing the masculine gender include the feminine as well; words used in the present tense include the future as well as the present; the words “insane” and “insane person” shall include every idiot, insane person, and person non compos mentis; the words “person” and “whoever” include corporations, companies, associations, firms, partnerships, societies, and joint stock companies, as well as individuals; “officer” includes any person authorized by law to perform the duties of the office; “signature” or “subscription” includes a mark when the person making the same intended it as such; “oath” includes affirmation, and “sworn” includes affirmed; “writing” includes printing and typewriting and reproductions of visual symbols by photographing, multigraphing, mimeographing, manifolding, or otherwise.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

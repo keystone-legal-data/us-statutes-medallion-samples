@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-az/act/ars/title-1/section-1-101"/>
+          <FRBRuri value="/us-az/act/ars/title-1/section-1-101"/>
+          <FRBRdate date="2026-10-15" name="snapshot"/>
+          <FRBRauthor href="#azleg"/>
+          <FRBRcountry value="US-AZ"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-az/act/ars/title-1/section-1-101/eng@2026-10-15"/>
+          <FRBRuri value="/us-az/act/ars/title-1/section-1-101/eng@2026-10-15"/>
+          <FRBRdate date="2026-10-15" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-az/act/ars/title-1/section-1-101/eng@2026-10-15/akn.xml"/>
+          <FRBRuri value="/us-az/act/ars/title-1/section-1-101/eng@2026-10-15/akn.xml"/>
+          <FRBRdate date="2026-10-15" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>c75757f02c9a46f91105ea43ccfa64c73ba71e514a7c8d25aa2d601618604666</meta:source_html_sha256>
+        <meta:doc_id>ARS-1-101</meta:doc_id>
+        <meta:jurisdiction>US-AZ</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>ARIZONA REVISED STATUTES</meta:chapter_name>
+        <meta:subchapter_id>1</meta:subchapter_id>
+        <meta:subchapter_name>In General</meta:subchapter_name>
+        <meta:history_note>Creation Date: 09/08/26 | Author: Arizona Legislative Council</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1-101">
+        <num>1-101</num>
+        <heading>Designation and citation</heading>
+        <paragraph eId="sec_1-101__para_1" class="indent-1">
+          <content>
+            <p>The Arizona Revised Statutes adopted and enacted into law by this act, and as hereafter amended and supplemented and printed and published pursuant to section 1-106, shall be known as Arizona Revised Statutes and may be cited as "A.R.S." followed by the number of the title and the number of the section in the title, separated by a dash. Example: This section may be cited: "A.R.S. section 1-101".</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

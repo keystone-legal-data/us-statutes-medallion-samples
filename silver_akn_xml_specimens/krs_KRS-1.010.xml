@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-ky/act/krs/title-1/section-1.010"/>
+          <FRBRuri value="/us-ky/act/krs/title-1/section-1.010"/>
+          <FRBRdate date="2026-10-17" name="snapshot"/>
+          <FRBRauthor href="#kyleg"/>
+          <FRBRcountry value="US-KY"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ky/act/krs/title-1/section-1.010/eng@2026-10-17"/>
+          <FRBRuri value="/us-ky/act/krs/title-1/section-1.010/eng@2026-10-17"/>
+          <FRBRdate date="2026-10-17" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ky/act/krs/title-1/section-1.010/eng@2026-10-17/akn.xml"/>
+          <FRBRuri value="/us-ky/act/krs/title-1/section-1.010/eng@2026-10-17/akn.xml"/>
+          <FRBRdate date="2026-10-17" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>4df86059407210a3883de33e7d89970e11259360efaffef8febb0ef584296fad</meta:source_html_sha256>
+        <meta:doc_id>KRS-1.010</meta:doc_id>
+        <meta:jurisdiction>US-KY</meta:jurisdiction>
+        <meta:container_id>01</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Boundaries</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>Enact. Acts 1992, ch. 419, § 2, effective July 14, 1992; 2020 ch. 77, § 1, effective July 15, 2020.</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1.010">
+        <num>1.010</num>
+        <heading>Legislative intent in establishing Kentucky State Plane Coordinate System</heading>
+        <paragraph eId="sec_1.010__para_1" class="indent-1">
+          <content>
+            <p>It is the intent of the General Assembly of the Commonwealth of Kentucky that KRS 1.020 shall not eliminate the existing methods of describing points on, within, or above the surface of the earth, as in metes and bounds or, in western Kentucky, the public land system, but rather to enhance these existing methods and establish a conformity for defining and stating the geographic positions or locations of points on, within, or above the surface of the earth and retracement purposes.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

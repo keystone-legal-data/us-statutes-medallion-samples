@@ -1,0 +1,401 @@
+[
+  {
+    "collection_slug": "akstat",
+    "archive": "keystone_akstat_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/akstat/keystone_akstat_title1_sample.tar.gz",
+    "byte_size": 22365,
+    "sha256": "b0b401bc50d47e5e9ab90268b7fcdca0a90d8b4ad04f4fd571b9f1d7e27e84ca"
+  },
+  {
+    "collection_slug": "alcode",
+    "archive": "keystone_alcode_title30_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/alcode/keystone_alcode_title30_sample.tar.gz",
+    "byte_size": 414341,
+    "sha256": "7c023fc8f025a61b482ce9a2d1af60b695d5c8e1f11de6357a847fd62f37b96d"
+  },
+  {
+    "collection_slug": "arcode",
+    "archive": "keystone_arcode_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/arcode/keystone_arcode_title1_sample.tar.gz",
+    "byte_size": 116348,
+    "sha256": "3125a7f140794315659143b7dd13b43bd7923ca98b0a6982b7031cfb55320be7"
+  },
+  {
+    "collection_slug": "ars",
+    "archive": "keystone_ars_title25_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/ars/keystone_ars_title25_sample.tar.gz",
+    "byte_size": 428038,
+    "sha256": "a95afc6f4aea328f7d00ed9d7067a5abcd6166abd2307f215e58631443d9c1f1"
+  },
+  {
+    "collection_slug": "asca",
+    "archive": "keystone_asca_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/asca/keystone_asca_title1_sample.tar.gz",
+    "byte_size": 27110,
+    "sha256": "07ae6444dfd65ce63f82a48efb076cd614dc5de2bd2d3da44769f48bee5462bc"
+  },
+  {
+    "collection_slug": "cacode",
+    "archive": "keystone_cacode_title3_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/cacode/keystone_cacode_title3_sample.tar.gz",
+    "byte_size": 5357427,
+    "sha256": "8a710018fd1b79c291d03958f78f0db0952787f39820caac2beee58fd5ec1c7f"
+  },
+  {
+    "collection_slug": "cgs",
+    "archive": "keystone_cgs_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/cgs/keystone_cgs_title1_sample.tar.gz",
+    "byte_size": 549183,
+    "sha256": "cf4b2a619de65402cf44254d760c3c3fdbbbe51ff8f79d5fc0439ae92536373e"
+  },
+  {
+    "collection_slug": "cmc",
+    "archive": "keystone_cmc_title7_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/cmc/keystone_cmc_title7_sample.tar.gz",
+    "byte_size": 138171,
+    "sha256": "b462f06f908be06c5c236d4bf2819bbd824bfc070d1ac24bb364aaef08e152d9"
+  },
+  {
+    "collection_slug": "crs",
+    "archive": "keystone_crs_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/crs/keystone_crs_title1_sample.tar.gz",
+    "byte_size": 1283115,
+    "sha256": "9953c7208766b3bd0bb295c75e098247908c0836578625ba8cbfea480a04b0b3"
+  },
+  {
+    "collection_slug": "dccode",
+    "archive": "keystone_dccode_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/dccode/keystone_dccode_title1_sample.tar.gz",
+    "byte_size": 2408765,
+    "sha256": "cd3b1a9412deb7ed20a48c14f3adb0cecf2e2822fed0a749200ef35ed3ffd23a"
+  },
+  {
+    "collection_slug": "delcode",
+    "archive": "keystone_delcode_title8_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/delcode/keystone_delcode_title8_sample.tar.gz",
+    "byte_size": 570308,
+    "sha256": "1c5af6098644eac80912bf8bc74638b4caba16899053c4da6191f9dc9f67b674"
+  },
+  {
+    "collection_slug": "flstat",
+    "archive": "keystone_flstat_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/flstat/keystone_flstat_title1_sample.tar.gz",
+    "byte_size": 17988,
+    "sha256": "81ec63e7f2f8dd2f26e9715cb1c6f9ac1a803f2a5e2830854fd06a13631f8838"
+  },
+  {
+    "collection_slug": "gca",
+    "archive": "keystone_gca_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/gca/keystone_gca_title1_sample.tar.gz",
+    "byte_size": 323034,
+    "sha256": "97f8529d2b39606dfdd0d4f364fafbff85752f6cb2ec4a19c794435996ec3ed8"
+  },
+  {
+    "collection_slug": "hrs",
+    "archive": "keystone_hrs_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/hrs/keystone_hrs_title1_sample.tar.gz",
+    "byte_size": 323102,
+    "sha256": "a1356070bf9b9989fb3750935eb1c6dd1498edc501001e58aaa0f18df3594e95"
+  },
+  {
+    "collection_slug": "iacode",
+    "archive": "keystone_iacode_titleI_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/iacode/keystone_iacode_titleI_sample.tar.gz",
+    "byte_size": 3341034,
+    "sha256": "e74e2e4b22fe2279a992c6d14b502f06d1593051465e2cbdbad2ab41836273b6"
+  },
+  {
+    "collection_slug": "idstat",
+    "archive": "keystone_idstat_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/idstat/keystone_idstat_title1_sample.tar.gz",
+    "byte_size": 175947,
+    "sha256": "8e2ba6866ab514321e74d598d3f810fb17ee47adc802b414804e5cc2710cef6e"
+  },
+  {
+    "collection_slug": "ilcs",
+    "archive": "keystone_ilcs_title5_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/ilcs/keystone_ilcs_title5_sample.tar.gz",
+    "byte_size": 1598403,
+    "sha256": "a1b5ad904116f94478ae0faacf685c8061310681fc4a7bb3910a1ee5fb407394"
+  },
+  {
+    "collection_slug": "incode",
+    "archive": "keystone_incode_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/incode/keystone_incode_title1_sample.tar.gz",
+    "byte_size": 160206,
+    "sha256": "58edc0521c42d8aedcc10900b12dc5b4ed8f68c4421fc0efea3bc91ddb82faf3"
+  },
+  {
+    "collection_slug": "krs",
+    "archive": "keystone_krs_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/krs/keystone_krs_title1_sample.tar.gz",
+    "byte_size": 84672,
+    "sha256": "45c44a6c2864977d0d3fead8a2163d9f7efdff95e65ba7721193862a7c25a675"
+  },
+  {
+    "collection_slug": "ksa",
+    "archive": "keystone_ksa_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/ksa/keystone_ksa_title1_sample.tar.gz",
+    "byte_size": 63206,
+    "sha256": "56392ddff853c8942f50188fd8a2d8dfcf299cff662bf7a14e89610dd9ee2df9"
+  },
+  {
+    "collection_slug": "lars",
+    "archive": "keystone_lars_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/lars/keystone_lars_title1_sample.tar.gz",
+    "byte_size": 37356,
+    "sha256": "cf7d6352a69158d2e50b7deed087d41ad6de346868f8d334e77c1413b288fd48"
+  },
+  {
+    "collection_slug": "lpra",
+    "archive": "keystone_lpra_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/lpra/keystone_lpra_title1_sample.tar.gz",
+    "byte_size": 264170,
+    "sha256": "ec66eae6900f37dc90551623ca1a233264c50317fa8fb45a1ea10d62247305db"
+  },
+  {
+    "collection_slug": "mca",
+    "archive": "keystone_mca_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/mca/keystone_mca_title1_sample.tar.gz",
+    "byte_size": 187581,
+    "sha256": "ccd2fc31c1f9b49199a5d86ec9e11197fbba5283420f18e8a3331a51f01d25d1"
+  },
+  {
+    "collection_slug": "mcl",
+    "archive": "keystone_mcl_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/mcl/keystone_mcl_title1_sample.tar.gz",
+    "byte_size": 233728,
+    "sha256": "65084fae2252425c4fae70fac208411bc05e420be1731fb48714936ad774d5b4"
+  },
+  {
+    "collection_slug": "mdcode",
+    "archive": "keystone_mdcode_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/mdcode/keystone_mdcode_title1_sample.tar.gz",
+    "byte_size": 867487,
+    "sha256": "b6aea3e8843aebb2a8895c10ad37f065571f6e8fa051b29c391bc5f7ced8863f"
+  },
+  {
+    "collection_slug": "mgl",
+    "archive": "keystone_mgl_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/mgl/keystone_mgl_title1_sample.tar.gz",
+    "byte_size": 219604,
+    "sha256": "bf79308fb24669abba74e24f3070a012ad20b2d9861006cfe8a092c8cf1f4232"
+  },
+  {
+    "collection_slug": "mnstat",
+    "archive": "keystone_mnstat_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/mnstat/keystone_mnstat_title1_sample.tar.gz",
+    "byte_size": 149122,
+    "sha256": "46442670e115cb7908909c0dc49bcda5b1d03b77e82000d6ddc5ca01359500d1"
+  },
+  {
+    "collection_slug": "mors",
+    "archive": "keystone_mors_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/mors/keystone_mors_title1_sample.tar.gz",
+    "byte_size": 87392,
+    "sha256": "b844e29671c54d8898d8b7f21c1eba3b1f2e2f0f44868a80aeea450d6085aa2d"
+  },
+  {
+    "collection_slug": "mrs",
+    "archive": "keystone_mrs_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/mrs/keystone_mrs_title1_sample.tar.gz",
+    "byte_size": 326230,
+    "sha256": "6446cfe885f3b32827ff8eef31cdb5653ca26912a949f6a7e2a039a5b16d4246"
+  },
+  {
+    "collection_slug": "mscode",
+    "archive": "keystone_mscode_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/mscode/keystone_mscode_title1_sample.tar.gz",
+    "byte_size": 74516,
+    "sha256": "16da2b82bf0a5aba64fd0a6e8f6d3d9abc10cab86ca95498641cec609c658d25"
+  },
+  {
+    "collection_slug": "ncgs",
+    "archive": "keystone_ncgs_title3_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/ncgs/keystone_ncgs_title3_sample.tar.gz",
+    "byte_size": 11664,
+    "sha256": "e3eef4f2fd5c337299866fc58d85f75a3326e87b687b02ee8dd0cd3235af97ca"
+  },
+  {
+    "collection_slug": "ndcc",
+    "archive": "keystone_ndcc_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/ndcc/keystone_ndcc_title1_sample.tar.gz",
+    "byte_size": 106361,
+    "sha256": "468afc2ce77f813e44689da18a490580bb4dac991fa52a7c1a3f6f94049e1363"
+  },
+  {
+    "collection_slug": "ners",
+    "archive": "keystone_ners_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/ners/keystone_ners_title1_sample.tar.gz",
+    "byte_size": 60125,
+    "sha256": "90dd96b8bd6b8b6cdd2e3ebc4620a156c7c9a429ee0ac3f96674e46d38841307"
+  },
+  {
+    "collection_slug": "nhrsa",
+    "archive": "keystone_nhrsa_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/nhrsa/keystone_nhrsa_title1_sample.tar.gz",
+    "byte_size": 738,
+    "sha256": "70c36ea3766e650f28575ab6f98f3ea156306100947997875da960195d727f7f"
+  },
+  {
+    "collection_slug": "njstat",
+    "archive": "keystone_njstat_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/njstat/keystone_njstat_title1_sample.tar.gz",
+    "byte_size": 91110,
+    "sha256": "32f2a714232cbc2f4be45b7a65268cec702d119ce63bd8852930162bd4467264"
+  },
+  {
+    "collection_slug": "nmsa",
+    "archive": "keystone_nmsa_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/nmsa/keystone_nmsa_title1_sample.tar.gz",
+    "byte_size": 745859,
+    "sha256": "f764b4747798a940601c24a4644ac2b7c9544cb4ebfb754b30b8019e4a93f202"
+  },
+  {
+    "collection_slug": "nrs",
+    "archive": "keystone_nrs_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/nrs/keystone_nrs_title1_sample.tar.gz",
+    "byte_size": 462260,
+    "sha256": "f4a27db4a71176aaab2317ce10704a401828ca656931069b94f1763427b9984d"
+  },
+  {
+    "collection_slug": "nycode",
+    "archive": "keystone_nycode_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/nycode/keystone_nycode_title1_sample.tar.gz",
+    "byte_size": 167342,
+    "sha256": "d9f07dca7b7b34afd99953679b1c21566850678d8b5474c8e7e91e93b3769662"
+  },
+  {
+    "collection_slug": "ocga",
+    "archive": "keystone_ocga_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/ocga/keystone_ocga_title1_sample.tar.gz",
+    "byte_size": 71878,
+    "sha256": "40878da6067f849265f1b5315a14174190c2be876fc35e043b7d23fc5c60b37c"
+  },
+  {
+    "collection_slug": "orc",
+    "archive": "keystone_orc_title25_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/orc/keystone_orc_title25_sample.tar.gz",
+    "byte_size": 90821,
+    "sha256": "0bd65e125414fd66d6cb1f9b62d6dfa5e293c481ca9edb66fc0f9fdea679e457"
+  },
+  {
+    "collection_slug": "ors",
+    "archive": "keystone_ors_title5_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/ors/keystone_ors_title5_sample.tar.gz",
+    "byte_size": 20830,
+    "sha256": "d3cf4ec1e0323025bca7257adc8e7cab3f3dcc6c1ab70e62ad6b67829e683778"
+  },
+  {
+    "collection_slug": "os",
+    "archive": "keystone_os_title25_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/os/keystone_os_title25_sample.tar.gz",
+    "byte_size": 1425039,
+    "sha256": "3bae45ed7c36ff72b718e0654a2791c03fc44fdb4faca5be3e3f39535cff1897"
+  },
+  {
+    "collection_slug": "pacs",
+    "archive": "keystone_pacs_title2_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/pacs/keystone_pacs_title2_sample.tar.gz",
+    "byte_size": 32884,
+    "sha256": "864ce28973e5ad81cddc2f2989a0627f2eb5b8d409b8489e5f28f8b6a18c0e64"
+  },
+  {
+    "collection_slug": "rcw",
+    "archive": "keystone_rcw_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/rcw/keystone_rcw_title1_sample.tar.gz",
+    "byte_size": 117264,
+    "sha256": "c75ec1b32fffe614995f893eec77204e83548543f8141546403b5da89538b74c"
+  },
+  {
+    "collection_slug": "rigl",
+    "archive": "keystone_rigl_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/rigl/keystone_rigl_title1_sample.tar.gz",
+    "byte_size": 121095,
+    "sha256": "bcbbadc209d4e3ce862d90a7d31f2a1452f14a608eced580f808dac5b96a9bff"
+  },
+  {
+    "collection_slug": "sccode",
+    "archive": "keystone_sccode_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/sccode/keystone_sccode_title1_sample.tar.gz",
+    "byte_size": 517532,
+    "sha256": "563f5ee72ef792fc012dc099b8f2a93f098a26f0f5326154a9d46aceb144de08"
+  },
+  {
+    "collection_slug": "sdcl",
+    "archive": "keystone_sdcl_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/sdcl/keystone_sdcl_title1_sample.tar.gz",
+    "byte_size": 648199,
+    "sha256": "00dfdce64436a7e7703a65a3361a65d71c1eb19baff0f33d6598adeb4687a279"
+  },
+  {
+    "collection_slug": "tca",
+    "archive": "keystone_tca_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/tca/keystone_tca_title1_sample.tar.gz",
+    "byte_size": 57945,
+    "sha256": "95e72abede20e6bd01930befec545a9eef0e8e3b0cb53767292663108e405817"
+  },
+  {
+    "collection_slug": "txstat",
+    "archive": "keystone_txstat_title24_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/txstat/keystone_txstat_title24_sample.tar.gz",
+    "byte_size": 729511,
+    "sha256": "79083fff3279edf0cfb0a6751d64acd50b22db6c438a4a24cc00cb06e7fea24d"
+  },
+  {
+    "collection_slug": "usc",
+    "archive": "keystone_usc_title25_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/usc/keystone_usc_title25_sample.tar.gz",
+    "byte_size": 2362849,
+    "sha256": "2e602674f419b8a85aa354ee203a97d82b8f1efd3a91506c353d3d333f3443a5"
+  },
+  {
+    "collection_slug": "utcode",
+    "archive": "keystone_utcode_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/utcode/keystone_utcode_title1_sample.tar.gz",
+    "byte_size": 89758,
+    "sha256": "91f80216e2478d94b8d28a56405f8eee723d7e7e0b9841eb19db730648c7e50e"
+  },
+  {
+    "collection_slug": "vacode",
+    "archive": "keystone_vacode_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/vacode/keystone_vacode_title1_sample.tar.gz",
+    "byte_size": 107010,
+    "sha256": "33334e360d852f9c9495d1e3195ca7e3ba80c86ad19e1f2ea820a42d4381d08f"
+  },
+  {
+    "collection_slug": "vic",
+    "archive": "keystone_vic_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/vic/keystone_vic_title1_sample.tar.gz",
+    "byte_size": 150909,
+    "sha256": "4f66629d2e800a09d4fe0816c171da924bc061da506864a01dbc022bade0b824"
+  },
+  {
+    "collection_slug": "vtstat",
+    "archive": "keystone_vtstat_title1_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/vtstat/keystone_vtstat_title1_sample.tar.gz",
+    "byte_size": 195323,
+    "sha256": "88b03f8749f9714c7c0298625ecde99f9b62f9b0d22ad2d36967ccb404920817"
+  },
+  {
+    "collection_slug": "wistat",
+    "archive": "keystone_wistat_title25_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/wistat/keystone_wistat_title25_sample.tar.gz",
+    "byte_size": 249702,
+    "sha256": "37ca95ffc5b59b12da554f1709226cf88dd8e390e04604650864e1437c186efa"
+  },
+  {
+    "collection_slug": "wvcode",
+    "archive": "keystone_wvcode_title25_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/wvcode/keystone_wvcode_title25_sample.tar.gz",
+    "byte_size": 185507,
+    "sha256": "d3d72b0b4ff3ae04aedb44eb9a5637050ac81d579f697dfdce8c496451a2f69c"
+  },
+  {
+    "collection_slug": "wystat",
+    "archive": "keystone_wystat_title25_sample.tar.gz",
+    "download_url": "https://samples.keystonelegaldata.com/wystat/keystone_wystat_title25_sample.tar.gz",
+    "byte_size": 144197,
+    "sha256": "06ea3923cf4a89e7c3c071464e3ed50574b7850886c1591e1ec5c9c169e71c34"
+  }
+]

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-wa/act/rcw/title-1/section-1.04.010"/>
+          <FRBRuri value="/akn/us-wa/act/rcw/title-1/section-1.04.010"/>
+          <FRBRdate date="2026-10-21" name="snapshot"/>
+          <FRBRauthor href="wa-legislature"/>
+          <FRBRcountry value="US-WA"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-wa/act/rcw/title-1/section-1.04.010/eng@2026-10-21"/>
+          <FRBRuri value="/akn/us-wa/act/rcw/title-1/section-1.04.010/eng@2026-10-21"/>
+          <FRBRdate date="2026-10-21" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-wa/act/rcw/title-1/section-1.04.010/eng@2026-10-21/akn.xml"/>
+          <FRBRuri value="/akn/us-wa/act/rcw/title-1/section-1.04.010/eng@2026-10-21/akn.xml"/>
+          <FRBRdate date="2026-10-21" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>557d7078e9dbe8b95bf9fd31ff5d664a29a6adb2298ac6837025d3d613904d23</meta:source_html_sha256>
+        <meta:doc_id>RCW-1.04.010</meta:doc_id>
+        <meta:jurisdiction>US-WA</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1.04</meta:chapter_id>
+        <meta:chapter_name>Chapter 1.04 - The code</meta:chapter_name>
+        <meta:subchapter_id></meta:subchapter_id>
+        <meta:subchapter_name></meta:subchapter_name>
+        <meta:history_note>1951 c 5 s 2 ; 1950 ex.s. c 16 s 1</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1.04.010">
+        <num>1.04.010</num>
+        <heading>Revised Code of Washington enacted</heading>
+        <paragraph eId="sec_1_04_010__p_1" class="indent-1">
+          <num>p_1</num>
+          <content>
+            <p>The ninety-one titles with chapters and sections designated as the "Revised Code of Washington" and attested by the secretary of the senate and the chief clerk of the house of representatives of the legislature of the state of Washington, are hereby enacted and designated as the "Revised Code of Washington." Said code is intended to embrace in a revised, consolidated, and codified form and arrangement all the laws of the state of a general and permanent nature.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

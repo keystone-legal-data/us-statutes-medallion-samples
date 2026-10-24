@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:meta="https://keystonelegaldata.com/schema/meta">
+  <act name="statute">
+    <meta>
+      <identification source="#keystone">
+        <FRBRWork>
+          <FRBRthis value="/us-or/act/ors/title-1/section-1.001"/>
+          <FRBRuri value="/us-or/act/ors/title-1/section-1.001"/>
+          <FRBRdate date="2026-10-19" name="snapshot"/>
+          <FRBRauthor href="#orleg"/>
+          <FRBRcountry value="US-OR"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-or/act/ors/title-1/section-1.001/eng@2026-10-19"/>
+          <FRBRuri value="/us-or/act/ors/title-1/section-1.001/eng@2026-10-19"/>
+          <FRBRdate date="2026-10-19" name="transformed"/>
+          <FRBRauthor href="#keystone"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-or/act/ors/title-1/section-1.001/eng@2026-10-19/akn.xml"/>
+          <FRBRuri value="/us-or/act/ors/title-1/section-1.001/eng@2026-10-19/akn.xml"/>
+          <FRBRdate date="2026-10-19" name="generation"/>
+          <FRBRauthor href="#keystone"/>
+        </FRBRManifestation>
+      </identification>
+      <proprietary source="#keystone">
+        <meta:source_html_sha256>d859e965a1b5ec1e4fc6dd07c6b642af0916e9856d3f3ed91dceba2ce92a6f05</meta:source_html_sha256>
+        <meta:doc_id>ORS-1.001</meta:doc_id>
+        <meta:jurisdiction>US-OR</meta:jurisdiction>
+        <meta:container_id>1</meta:container_id>
+        <meta:chapter_id>1</meta:chapter_id>
+        <meta:chapter_name>Chapter 1 — Courts and Judicial Officers Generally</meta:chapter_name>
+        <meta:subchapter_id>SUB-1</meta:subchapter_id>
+        <meta:subchapter_name>Courts</meta:subchapter_name>
+        <meta:history_note>1981 s.s. c.3 §1</meta:history_note>
+      </proprietary>
+    </meta>
+    <body>
+      <section eId="sec_1.001">
+        <num>1.001</num>
+        <heading>State policy for courts</heading>
+        <paragraph eId="sec_1.001__para_1" class="indent-1">
+          <content>
+            <p>The Legislative Assembly hereby declares that, as a matter of statewide concern, it is in the best interests of the people of this state that the judicial branch of state government, including the appellate, tax and circuit courts, be funded and operated at the state level. The Legislative Assembly finds that state funding and operation of the judicial branch can provide for best statewide allocation of governmental resources according to the actual needs of the people and of the judicial branch by establishing an accountable, equitably funded and uniformly administered system of justice for all the people of this state.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>
