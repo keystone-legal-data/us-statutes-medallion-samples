@@ -4,13 +4,14 @@
 **Corporate Profile & Engineering Methodology:** [**https://keystonelegaldata.com/about.html**](https://keystonelegaldata.com/about.html)  
 **Publisher:** **Keystone Data Services LLC** (d/b/a **Keystone Legal Data**, Yuma, Arizona)  
 **Interactive Sample Dataset (Hugging Face):** [**huggingface.co/datasets/keystone-legal-data/us-statutes-medallion-samples**](https://huggingface.co/datasets/keystone-legal-data/us-statutes-medallion-samples)  
+**LinkedIn Company Page:** [**linkedin.com/company/keystone-legal-data**](https://www.linkedin.com/company/keystone-legal-data)  
 **Direct Inquiries / Enterprise Quotes & Demos:** `info@keystonelegaldata.com` | `(928) 502-0228`
 
 ---
 
 ## Executive Summary
 
-This repository contains the **official 57-jurisdiction free evaluation sample showcase** of the **Keystone Legal Data US Statutory & Citation Graph Medallion Corpus (`2026-10 Snapshot Edition`)**.
+This repository contains the **official 57-jurisdiction free evaluation sample showcase & OASIS Akoma Ntoso 3.0 XSD verification suite** of the **Keystone Legal Data US Statutory & Citation Graph Medallion Corpus (`2026-10 Snapshot Edition`)**.
 
 Across the complete 57-jurisdiction commercial master corpus (covering the **United States Code**, all **50 US States**, **Washington D.C.**, and all **5 inhabited US Territories**: American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and the U.S. Virgin Islands), Keystone Legal Data delivers:
 
@@ -25,13 +26,12 @@ Across the complete 57-jurisdiction commercial master corpus (covering the **Uni
 
 ## What Is Included in This Free Sample Repository
 
-To allow legal data engineers, AI laboratories, and enterprise evaluation teams to inspect our schema, structural subsection shredding, and citation graph fidelity before purchasing, this Hugging Face repository provides **one sample statutory container (Title / Code / Chapter) per jurisdiction across all 57 US jurisdictions**:
+To allow legal data engineers, AI laboratories, and enterprise evaluation teams to inspect our schema, structural subsection shredding, XML validity, and citation graph fidelity before purchasing, this GitHub repository (together with our [companion Hugging Face dataset](https://huggingface.co/datasets/keystone-legal-data/us-statutes-medallion-samples)) provides:
 
-1. **`sections` Configuration (`data/sections/train-00000-of-00001.parquet`)**: **26,904** sample statutory sections across all 57 jurisdictions.
-2. **`subsections` Configuration (`data/subsections/train-00000-of-00001.parquet`)**: **135,401** hierarchically shredded sample subsection paragraphs.
-3. **`edges` Configuration (`data/edges/train-00000-of-00001.parquet`)**: **33,686** sample directed intra-jurisdiction statutory citation edges.
-4. **`silver_akn_xml_specimens/`**: **57** canonical **OASIS Akoma Ntoso 3.0 (LegalDocML)** XML specimen documents (one per jurisdiction).
-5. **`quickstart.py`**: Ready-to-run DuckDB / Python queries demonstrating section lookup, subsection hierarchy reconstruction, and citation graph traversal.
+1. **`silver_akn_xml_specimens/`**: **57** canonical **OASIS Akoma Ntoso 3.0 (LegalDocML)** XML specimen documents (one per jurisdiction).
+2. **`schemas/akn30/akomantoso30.xsd` & `xml.xsd`**: Official W3C / OASIS Akoma Ntoso 3.0 XML Schema Definition files for local cryptographic and structural validation.
+3. **`sample_manifests/sample_sha256_seals.json`**: Complete SHA-256 cryptographic checksum manifest across all 57 jurisdiction archives and sample packages.
+4. **`scripts/verify_akn_specimens.py` & `scripts/quickstart_duckdb.py`**: Ready-to-run Python verification and DuckDB query scripts for validating the 57 XML specimens against `akomantoso30.xsd` and querying the 57-jurisdiction sample Parquet tables (**26,904** sections, **135,401** hierarchically shredded subsections, and **33,686** directed citation edges).
 
 ---
 
@@ -73,6 +73,12 @@ duckdb.sql("""
     ORDER BY s.doc_id, sub.paragraph_seq
     LIMIT 10;
 """).show()
+```
+
+### Option 3: Validate Silver OASIS Akoma Ntoso 3.0 XML Specimens Locally
+
+```bash
+python3 scripts/verify_akn_specimens.py
 ```
 
 ---
@@ -117,7 +123,7 @@ duckdb.sql("""
 Every full dataset purchase includes **perpetual, worldwide commercial snapshot license rights** to all three Medallion tiers (**Bronze** raw source archive, **Silver OASIS Akoma Ntoso 3.0 XML** archive, and **Gold Apache Parquet + Citation Graph** archive) with zero recurring subscription fees or API lock-in:
 
 * **Single-Jurisdiction Complete Medallion Snapshot (`2026-10 Edition`)**: **$2,000 USD** (Instant Stripe Checkout or Enterprise PO/Wire)
-* **Complete 57-Jurisdiction Master Medallion Corpus (`2026-10 Edition`)**: **$25,000 USD** ([Acquire at keystonelegaldata.com](https://keystonelegaldata.com/#catalog-matrix) or request an enterprise quote/demo at `info@keystonelegaldata.com`)
+* **Complete 57-Jurisdiction Master Medallion Corpus (`2026-10 Edition`)**: **$25,000 USD** ([Acquire at keystonelegaldata.com](https://keystonelegaldata.com/#catalog) or request an enterprise quote/demo at `info@keystonelegaldata.com`)
 
 | Jurisdiction | Official Statutory Corpus | Active Containers | Enacted Sections | Shredded Subsections | Citation Edges | Catalog & Sample Page |
 | :--- | :--- | ---: | ---: | ---: | ---: | :--- |
@@ -176,14 +182,14 @@ Every full dataset purchase includes **perpetual, worldwide commercial snapshot 
 | **Virginia** (`US-VA`) | [Code of Virginia](https://keystonelegaldata.com/statutes/virginia.html) | 76 | 31,306 | 148,696 | 43,171 | [View Specs & Sample](https://keystonelegaldata.com/statutes/virginia.html) |
 | **Washington** (`US-WA`) | [Revised Code of Washington](https://keystonelegaldata.com/statutes/washington.html) | 101 | 52,036 | 273,712 | 61,768 | [View Specs & Sample](https://keystonelegaldata.com/statutes/washington.html) |
 | **West Virginia** (`US-WV`) | [West Virginia Code](https://keystonelegaldata.com/statutes/west-virginia.html) | 139 | 26,379 | 191,690 | 10,098 | [View Specs & Sample](https://keystonelegaldata.com/statutes/west-virginia.html) |
-| **Wisconsin** (`us_wi`) | [Wisconsin Statutes](https://keystonelegaldata.com/statutes/wisconsin.html) | 469 | 18,079 | 212,292 | 56,422 | [View Specs & Sample](https://keystonelegaldata.com/statutes/wisconsin.html) |
-| **Wyoming** (`us_wy`) | [Wyoming Statutes](https://keystonelegaldata.com/statutes/wyoming.html) | 44 | 19,681 | 106,633 | 28,578 | [View Specs & Sample](https://keystonelegaldata.com/statutes/wyoming.html) |
+| **Wisconsin** (`US-WI`) | [Wisconsin Statutes](https://keystonelegaldata.com/statutes/wisconsin.html) | 469 | 18,079 | 212,292 | 56,422 | [View Specs & Sample](https://keystonelegaldata.com/statutes/wisconsin.html) |
+| **Wyoming** (`US-WY`) | [Wyoming Statutes](https://keystonelegaldata.com/statutes/wyoming.html) | 44 | 19,681 | 106,633 | 28,578 | [View Specs & Sample](https://keystonelegaldata.com/statutes/wyoming.html) |
 | **Total (57 Jurisdictions)** | [**Complete US Master Medallion Corpus**](https://keystonelegaldata.com) | **4,048** | **2,129,709** | **12,613,059** | **2,556,423** | [**keystonelegaldata.com**](https://keystonelegaldata.com) |
 
 ---
 
 ## License & Attribution
 
-The sample files in this repository are provided by **Keystone Data Services LLC (d/b/a Keystone Legal Data)** for technical evaluation, schema inspection, and non-bulk testing. While underlying enacted government edicts are in the public domain, the normalized Medallion schema, hierarchical subsection shredding, OASIS Akoma Ntoso 3.0 XML markup, resolved citation graph topology, and cryptographic lineage manifests are proprietary data engineering deliverables of Keystone Data Services LLC.
+The sample files in this repository are provided by **Keystone Data Services LLC (d/b/a Keystone Legal Data)** for technical evaluation, schema inspection, and non-bulk testing ([Terms & EULA](https://keystonelegaldata.com/terms.html) · [Privacy Policy](https://keystonelegaldata.com/privacy.html)). While underlying enacted government edicts are in the public domain, the normalized Medallion schema, hierarchical subsection shredding, OASIS Akoma Ntoso 3.0 XML markup, resolved citation graph topology, and cryptographic lineage manifests are proprietary data engineering deliverables of Keystone Data Services LLC.
 
-For full commercial dataset licensing, enterprise PO/ACH wire invoicing, or technical walkthroughs, visit [**https://keystonelegaldata.com**](https://keystonelegaldata.com) or contact [**info@keystonelegaldata.com**](mailto:info@keystonelegaldata.com).
+For full commercial dataset licensing, enterprise PO/ACH wire invoicing, or technical walkthroughs, visit [**https://keystonelegaldata.com**](https://keystonelegaldata.com), connect on [**LinkedIn**](https://www.linkedin.com/company/keystone-legal-data), or contact [**info@keystonelegaldata.com**](mailto:info@keystonelegaldata.com).
