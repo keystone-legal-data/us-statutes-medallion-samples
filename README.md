@@ -122,8 +122,8 @@ python3 scripts/verify_akn_specimens.py
 
 Every full dataset purchase includes **perpetual, worldwide commercial snapshot license rights** to all three Medallion tiers (**Bronze** raw source archive, **Silver OASIS Akoma Ntoso 3.0 XML** archive, and **Gold Apache Parquet + Citation Graph** archive) with zero recurring subscription fees or API lock-in:
 
-* **Single-Jurisdiction Complete Medallion Snapshot (`2026-10 Edition`)**: **$2,000 USD** (Instant Stripe Checkout or Enterprise PO/Wire)
-* **Complete 57-Jurisdiction Master Medallion Corpus (`2026-10 Edition`)**: **$25,000 USD** ([Acquire at keystonelegaldata.com](https://keystonelegaldata.com/#catalog) or request an enterprise quote/demo at `info@keystonelegaldata.com`)
+* **Single-Jurisdiction Complete Medallion Snapshot (`2026-10 Edition`)**: **$500 USD** (Instant Stripe Checkout or Enterprise PO/Wire)
+* **Complete 57-Jurisdiction Master Medallion Corpus (`2026-10 Edition`)**: **$10,000 USD** ([Acquire at keystonelegaldata.com](https://keystonelegaldata.com/#catalog) or request an enterprise quote/demo at `info@keystonelegaldata.com`)
 
 | Jurisdiction | Official Statutory Corpus | Active Containers | Enacted Sections | Shredded Subsections | Citation Edges | Catalog & Sample Page |
 | :--- | :--- | ---: | ---: | ---: | ---: | :--- |
