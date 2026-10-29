@@ -2,6 +2,7 @@
 
 **Official Catalog & Commercial Licensing:** [**https://keystonelegaldata.com**](https://keystonelegaldata.com)  
 **Corporate Profile & Engineering Methodology:** [**https://keystonelegaldata.com/about.html**](https://keystonelegaldata.com/about.html)  
+**LLM & AI Agent Catalog Manifest (`/llms.txt`):** [**https://keystonelegaldata.com/llms.txt**](https://keystonelegaldata.com/llms.txt)  
 **Publisher:** **Keystone Data Services LLC** (d/b/a **Keystone Legal Data**, Yuma, Arizona)  
 **Interactive Sample Dataset (Hugging Face):** [**huggingface.co/datasets/keystone-legal-data/us-statutes-medallion-samples**](https://huggingface.co/datasets/keystone-legal-data/us-statutes-medallion-samples)  
 **LinkedIn Company Page:** [**linkedin.com/company/keystone-legal-data**](https://www.linkedin.com/company/keystone-legal-data)  
@@ -123,11 +124,11 @@ python3 scripts/verify_akn_specimens.py
 Every full dataset purchase includes **perpetual, worldwide commercial snapshot license rights** to all three Medallion tiers (**Bronze** raw source archive, **Silver OASIS Akoma Ntoso 3.0 XML** archive, and **Gold Apache Parquet + Citation Graph** archive) with zero recurring subscription fees or API lock-in:
 
 * **Single-Jurisdiction Complete Medallion Snapshot (`2026-10 Edition`)**: **$500 USD** (Instant Stripe Checkout or Enterprise PO/Wire)
-* **Complete 57-Jurisdiction Master Medallion Corpus (`2026-10 Edition`)**: **$10,000 USD** ([Acquire at keystonelegaldata.com](https://keystonelegaldata.com/#catalog) or request an enterprise quote/demo at `info@keystonelegaldata.com`)
+* **Complete 57-Jurisdiction Master Medallion Corpus (`2026-10 Edition`)**: **$10,000 USD** ([Acquire at keystonelegaldata.com](https://keystonelegaldata.com/#master-acquisition) or request an enterprise quote/demo at `info@keystonelegaldata.com`)
 
 | Jurisdiction | Official Statutory Corpus | Active Containers | Enacted Sections | Shredded Subsections | Citation Edges | Catalog & Sample Page |
 | :--- | :--- | ---: | ---: | ---: | ---: | :--- |
-| **US Federal** (`us_fed`) | [United States Code (U.S.C.)](https://keystonelegaldata.com/statutes/USC.html) | 53 | 60,451 | 746,040 | 69,188 | [View Specs & Sample](https://keystonelegaldata.com/statutes/USC.html) |
+| **US Federal** (`US-FED`) | [United States Code (U.S.C.)](https://keystonelegaldata.com/statutes/USC.html) | 53 | 60,451 | 746,040 | 69,188 | [View Specs & Sample](https://keystonelegaldata.com/statutes/USC.html) |
 | **Alabama** (`US-AL`) | [Code of Alabama 1975](https://keystonelegaldata.com/statutes/alabama.html) | 46 | 49,270 | 197,421 | 15,000 | [View Specs & Sample](https://keystonelegaldata.com/statutes/alabama.html) |
 | **Alaska** (`US-AK`) | [Alaska Statutes](https://keystonelegaldata.com/statutes/alaska.html) | 45 | 20,217 | 110,088 | 23,068 | [View Specs & Sample](https://keystonelegaldata.com/statutes/alaska.html) |
 | **American Samoa** (`US-AS`) | [American Samoa Code](https://keystonelegaldata.com/statutes/american-samoa.html) | 38 | 3,578 | 13,406 | 1,236 | [View Specs & Sample](https://keystonelegaldata.com/statutes/american-samoa.html) |
@@ -176,9 +177,9 @@ Every full dataset purchase includes **perpetual, worldwide commercial snapshot 
 | **South Dakota** (`US-SD`) | [South Dakota Codified Laws](https://keystonelegaldata.com/statutes/south-dakota.html) | 64 | 30,412 | 84,984 | 17,467 | [View Specs & Sample](https://keystonelegaldata.com/statutes/south-dakota.html) |
 | **Tennessee** (`US-TN`) | [Tennessee Code](https://keystonelegaldata.com/statutes/tennessee.html) | 68 | 34,357 | 196,426 | 20,871 | [View Specs & Sample](https://keystonelegaldata.com/statutes/tennessee.html) |
 | **Texas** (`US-TX`) | [Texas Statutes and Codes](https://keystonelegaldata.com/statutes/texas.html) | 31 | 124,884 | 613,309 | 45,821 | [View Specs & Sample](https://keystonelegaldata.com/statutes/texas.html) |
-| **U.S. Virgin Islands** (`US-VI`) | [Virgin Islands Code](https://keystonelegaldata.com/statutes/virgin-islands.html) | 36 | 11,751 | 31,660 | 2,375 | [View Specs & Sample](https://keystonelegaldata.com/statutes/virgin-islands.html) |
 | **Utah** (`US-UT`) | [Utah Code](https://keystonelegaldata.com/statutes/utah.html) | 96 | 27,753 | 382,141 | 42,243 | [View Specs & Sample](https://keystonelegaldata.com/statutes/utah.html) |
 | **Vermont** (`US-VT`) | [Vermont Statutes](https://keystonelegaldata.com/statutes/vermont.html) | 46 | 22,585 | 141,094 | 15,354 | [View Specs & Sample](https://keystonelegaldata.com/statutes/vermont.html) |
+| **U.S. Virgin Islands** (`US-VI`) | [Virgin Islands Code](https://keystonelegaldata.com/statutes/virgin-islands.html) | 36 | 11,751 | 31,660 | 2,375 | [View Specs & Sample](https://keystonelegaldata.com/statutes/virgin-islands.html) |
 | **Virginia** (`US-VA`) | [Code of Virginia](https://keystonelegaldata.com/statutes/virginia.html) | 76 | 31,306 | 148,696 | 43,171 | [View Specs & Sample](https://keystonelegaldata.com/statutes/virginia.html) |
 | **Washington** (`US-WA`) | [Revised Code of Washington](https://keystonelegaldata.com/statutes/washington.html) | 101 | 52,036 | 273,712 | 61,768 | [View Specs & Sample](https://keystonelegaldata.com/statutes/washington.html) |
 | **West Virginia** (`US-WV`) | [West Virginia Code](https://keystonelegaldata.com/statutes/west-virginia.html) | 139 | 26,379 | 191,690 | 10,098 | [View Specs & Sample](https://keystonelegaldata.com/statutes/west-virginia.html) |
@@ -192,4 +193,4 @@ Every full dataset purchase includes **perpetual, worldwide commercial snapshot 
 
 The sample files in this repository are provided by **Keystone Data Services LLC (d/b/a Keystone Legal Data)** for technical evaluation, schema inspection, and non-bulk testing ([Terms & EULA](https://keystonelegaldata.com/terms.html) · [Privacy Policy](https://keystonelegaldata.com/privacy.html)). While underlying enacted government edicts are in the public domain, the normalized Medallion schema, hierarchical subsection shredding, OASIS Akoma Ntoso 3.0 XML markup, resolved citation graph topology, and cryptographic lineage manifests are proprietary data engineering deliverables of Keystone Data Services LLC.
 
-For full commercial dataset licensing, enterprise PO/ACH wire invoicing, or technical walkthroughs, visit [**https://keystonelegaldata.com**](https://keystonelegaldata.com), connect on [**LinkedIn**](https://www.linkedin.com/company/keystone-legal-data), or contact [**info@keystonelegaldata.com**](mailto:info@keystonelegaldata.com).
+For full commercial dataset licensing, enterprise PO/ACH wire invoicing, or custom snapshot quotes, visit [**https://keystonelegaldata.com**](https://keystonelegaldata.com), connect on [**LinkedIn**](https://www.linkedin.com/company/keystone-legal-data), or contact [**info@keystonelegaldata.com**](mailto:info@keystonelegaldata.com).
