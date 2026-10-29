@@ -234,8 +234,8 @@
     "collection_slug": "nhrsa",
     "archive": "keystone_nhrsa_title1_sample.tar.gz",
     "download_url": "https://samples.keystonelegaldata.com/nhrsa/keystone_nhrsa_title1_sample.tar.gz",
-    "byte_size": 738,
-    "sha256": "70c36ea3766e650f28575ab6f98f3ea156306100947997875da960195d727f7f"
+    "byte_size": 2276462,
+    "sha256": "d944f1478c5f3b64aa25ae897a18e7a048f68304c3949a3df041f9d8157c4e3f"
   },
   {
     "collection_slug": "njstat",
